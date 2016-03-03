@@ -25,7 +25,7 @@ public:
 	eclipse(){ ; }
 	eclipse(std::string fName, std::string pName, std::string iName);
 	void updateAll(std::string fName, std::string pName, std::string iName);
-	void updatesch(std::ifstream& infile);
+	void updatesch(std::ifstream& infileT, std::ifstream& infileP);
 
 	//--- functions
 	void writeSchFile();
@@ -42,8 +42,8 @@ public:
 
 
 // <1>---------------- update and constructor --------------
-void eclipse::updatesch(std::ifstream& infile){
-	mInput.updateSch(infile);
+void eclipse::updatesch(std::ifstream& infileT, std::ifstream& infileP){
+	mInput.updateSch(infileT,infileP);
 }
 
 void eclipse::writeSchFile(){
@@ -217,10 +217,14 @@ void Eclipses::updateAll(size_t Necl, std::string modelFold, std::string projNam
 	mEclVec.resize(Necl);
 
 
+	std::string tstepName = iName + "/tstep.dat";
 	std::string schName = iName + "/sch.dat";
+	
+	std::ifstream tIn(tstepName);
 	std::ifstream schIn(schName);
+
 	for (size_t i = 0; i < Necl; ++i){
-		mEclVec[i].updatesch(schIn);
+		mEclVec[i].updatesch(tIn,schIn);
 	}
 
 
@@ -228,6 +232,9 @@ void Eclipses::updateAll(size_t Necl, std::string modelFold, std::string projNam
 		std::string projFold = modelFold + "/case (" + std::to_string(i + 1)+")";
 		mEclVec[i].updateAll(projFold, projName, iName);
 	}
+
+	tIn.close();
+	schIn.close();
 	
 }
 
@@ -382,51 +389,51 @@ void Eclipses::compSomeCases(std::vector<size_t> caseNums, std::string foldNameI
 
 
 
-// <5>--------------- function for raw data output ----------------
-void Eclipses::outputRawFOPR(std::string outFileName) {
-	std::ofstream outfile("../Output/" + outFileName);
-	for (size_t i = 0; i < mNecl; ++i){
-		std::vector<double> timeVec = mEclVec[i].mInput.mCumTimeVec;
-		std::vector<double> FOPRvec = mEclVec[i].readVec("FOPR");
-		outfile <<"0 "<< dlib::trans(vec2mat(timeVec));
-		outfile <<"0 "<< dlib::trans(vec2mat(FOPRvec));
-	}
-}
-
-void Eclipses::outputRawFOPT(std::string outFileName) {
-	std::ofstream outfile("../Output/" + outFileName);
-	for (size_t i = 0; i < mNecl; ++i){
-		std::vector<double> timeVec = mEclVec[i].mInput.mCumTimeVec;
-		std::vector<double> FOPTvec = mEclVec[i].readVec("FOPT");
-		outfile << "\t0 "<<dlib::trans(vec2mat(timeVec));
-		outfile <<"\t0 "<< dlib::trans(vec2mat(FOPTvec));
-	}
-}
-
-void Eclipses::outputNPV(std::string outFileName){
-	std::ofstream outfile("../Output/" + outFileName);
-	for (size_t i = 0; i < mNecl; ++i){
-		double NPV = mEclVec[i].readNPV();
-		outfile << NPV << std::endl;
-	}
-}
-
-
-void Eclipses::outputBHP(std::string outFileName){
-	std::ofstream outfile("../Output/" + outFileName);
-	for (size_t i = 0; i < mNecl; ++i){
-		std::vector<double> timeVec = mEclVec[i].mInput.mCumTimeVec;
-		std::vector<double> BHPvec = mEclVec[i].mInput.mPresVec;
-		outfile << "\t0 "<<dlib::trans(vec2mat(timeVec));
-		outfile << "\t" << mEclVec[i].mInput.mUp<<" "
-			<< dlib::trans(vec2mat(BHPvec));
-	}
-}
-
-void Eclipses::outputRaw(std::string foldNameInOutput){
-	/*outputNPV(foldNameInOutput + "/rawNPV.out");*/
-	outputBHP(foldNameInOutput + "/rawBHP.out");
-	outputRawFOPT(foldNameInOutput + "/rawFOPT.out");
-	outputRawFOPR(foldNameInOutput + "/rawFOPR.out");
-	
-}
+//// <5>--------------- function for raw data output ----------------
+//void Eclipses::outputRawFOPR(std::string outFileName) {
+//	std::ofstream outfile("../Output/" + outFileName);
+//	for (size_t i = 0; i < mNecl; ++i){
+//		std::vector<double> timeVec = mEclVec[i].mInput.mCumTimeVec;
+//		std::vector<double> FOPRvec = mEclVec[i].readVec("FOPR");
+//		outfile <<"0 "<< dlib::trans(vec2mat(timeVec));
+//		outfile <<"0 "<< dlib::trans(vec2mat(FOPRvec));
+//	}
+//}
+//
+//void Eclipses::outputRawFOPT(std::string outFileName) {
+//	std::ofstream outfile("../Output/" + outFileName);
+//	for (size_t i = 0; i < mNecl; ++i){
+//		std::vector<double> timeVec = mEclVec[i].mInput.mCumTimeVec;
+//		std::vector<double> FOPTvec = mEclVec[i].readVec("FOPT");
+//		outfile << "\t0 "<<dlib::trans(vec2mat(timeVec));
+//		outfile <<"\t0 "<< dlib::trans(vec2mat(FOPTvec));
+//	}
+//}
+//
+//void Eclipses::outputNPV(std::string outFileName){
+//	std::ofstream outfile("../Output/" + outFileName);
+//	for (size_t i = 0; i < mNecl; ++i){
+//		double NPV = mEclVec[i].readNPV();
+//		outfile << NPV << std::endl;
+//	}
+//}
+//
+//
+//void Eclipses::outputBHP(std::string outFileName){
+//	std::ofstream outfile("../Output/" + outFileName);
+//	for (size_t i = 0; i < mNecl; ++i){
+//		std::vector<double> timeVec = mEclVec[i].mInput.mCumTimeVec;
+//		std::vector<double> BHPvec = mEclVec[i].mInput.mPresVec;
+//		outfile << "\t0 "<<dlib::trans(vec2mat(timeVec));
+//		outfile << "\t" << mEclVec[i].mInput.mUp<<" "
+//			<< dlib::trans(vec2mat(BHPvec));
+//	}
+//}
+//
+//void Eclipses::outputRaw(std::string foldNameInOutput){
+//	/*outputNPV(foldNameInOutput + "/rawNPV.out");*/
+//	outputBHP(foldNameInOutput + "/rawBHP.out");
+//	outputRawFOPT(foldNameInOutput + "/rawFOPT.out");
+//	outputRawFOPR(foldNameInOutput + "/rawFOPR.out");
+//	
+//}

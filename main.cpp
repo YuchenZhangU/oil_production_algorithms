@@ -17,12 +17,12 @@ int main(){
 	//std::ofstream out("../Output/out.out");
 	//out << vec2mat(FOPTvec) << std::endl;
 	//out << vec2mat(FOPRvec) << std::endl;
-	/*size_t Necl = 1;
-	Eclipses ecls_ALL(Necl, "../Model/1_test", "11", "../Input/1_test");*/
+	size_t Necl = 1;
+	Eclipses ecls_ALL(Necl, "../Model/1_test", "11", "../Input/1_test");
 	//ecls_ALL.run();
 
-	std::ifstream infile("../Input/1_test/sch.dat");
-	std::vector<double> vec = readSingleLine(infile);
+	//std::ifstream infile("../Input/1_test/sch.dat");
+	//std::vector<double> vec = readSingleLine(infile);
 
 	/*ecls_ALL.outputRaw("s1");*/
 	/*compMultiCases(ecls_ALL);*/
