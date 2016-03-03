@@ -17,8 +17,10 @@ int main(){
 	//std::ofstream out("../Output/out.out");
 	//out << vec2mat(FOPTvec) << std::endl;
 	//out << vec2mat(FOPRvec) << std::endl;
-	size_t Necl = 1;
-	Eclipses ecls_ALL(Necl, "../Model/1_test", "11", "../Input/1_test");
+	size_t Necl;
+	std::ifstream infile("caseNo.dat");
+	infile >> Necl;
+	Eclipses ecls_ALL(Necl, "", "11", "Input");
 	//ecls_ALL.run();
 
 	//std::ifstream infile("../Input/1_test/sch.dat");

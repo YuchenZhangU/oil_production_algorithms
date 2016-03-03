@@ -229,7 +229,7 @@ void Eclipses::updateAll(size_t Necl, std::string modelFold, std::string projNam
 
 
 	for (size_t i = 0; i < Necl;++i){
-		std::string projFold = modelFold + "/case (" + std::to_string(i + 1)+")";
+		std::string projFold = modelFold + "case (" + std::to_string(i + 1)+")";
 		mEclVec[i].updateAll(projFold, projName, iName);
 	}
 
