@@ -12,27 +12,19 @@ void compMultiCases(Eclipses& ecls, std::string caseToComp = "../Input/caseToCom
 }
 
 int main(){
-	
-	//std::vector<double> tVec;
-	//std::vector<double> pVec;
-
-	//dropHoldAllSch(pVec, tVec,6000,5000,1000, 5,5,16,1, 80,1800);
-	//
-	//std::ofstream fout("test.txt");
-	//fout << "x = [";
-	//writeVec(fout, tVec);
-	//fout << "];\ny=[";
-	//writeVec(fout, pVec);
-	//fout << "];\n";
-	//fout.close();
-
-	size_t Necl;
-	std::ifstream infile("caseNo.dat");
-	infile >> Necl;
+	// --------------- used to build drop hold schudles---------------
+	size_t Necl=32;
 	Eclipses ecls_ALL(Necl, "../Model/32_comp_ng_Nc_ratio", "11", "../Input/32_comp_ng_Nc_ratio");
-	//ecls_ALL.run();
+	ecls_ALL.updateSch(Necl, "../Input/32_comp_ng_Nc_ratio");
+	ecls_ALL.run();
 
-	
+
+	////---------------- ouput all data ----------------------
+	//std::ifstream infile("caseNo.dat");
+	//size_t n;
+	//infile >> n;
+	//Eclipses eclVec(n, ".", "11");
+	//eclVec.ouputAll("outputAll.out", "econPara.dat");
 
 
 	return 0;

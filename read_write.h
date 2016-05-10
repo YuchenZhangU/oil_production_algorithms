@@ -10,25 +10,7 @@
 
 typedef dlib::matrix<double> matrix;
 
-//*********************** 1.1 READ SCH ECLIPSE FILE ***************************
-
-double readKeyWordValue(const std::string& filename, const int& n);
-
-std::string io4st(const size_t& n);
-
-int whereIsKeyWord(const std::string& filename, const std::string& keyWord);
-
-std::vector<double> readMultiTimeStepValue(const std::string&
-	projectName, const std::string& keyWord);
-
-std::vector<std::ios_base::streampos> getStreamPosition(const
-	std::string& filename, const std::string& keyWordtoFind);
-
-std::vector<double> getNextValue(const std::string& filename, const
-	std::string& keyWord);
-
-double readNPV_OW(const std::string& projName);
-
+//************************************************************ 1.1 READ SCH ECLIPSE FILE ******************************************
 
 // filename is the file name of file to be read
 //n = No. of position of keywrod from the bottom of summary
@@ -102,40 +84,34 @@ int whereIsKeyWord(const std::string& filename, const std::string& keyWord)
 
 }
 
-/*keyWordValue for each timestep
 
-*/
-std::vector<double> readMultiTimeStepValue(const std::string& projectName, const std::string& keyWord)
+int whereIsKeyWordBeg(const std::string& filename, const std::string& keyWord)
 {
-	std::vector<double> keyWordValue;
-	std::string filename;
-	std::string filenameBase;
-	std::ifstream infile;
-	int n = whereIsKeyWord(projectName + "_SUM.INC", keyWord);
-	if (n == 0){
-		return keyWordValue;
-	}
-	size_t timeStep = 1;
-	filenameBase = projectName + "_E100.A";
-	filename = filenameBase + "0001";
-
-	// get time step s
-	std::vector<std::ios_base::streampos> stPosV = 
-		getStreamPosition(projectName + "_SCH.INC", "TSTEP");
-	size_t Ntstep = stPosV.size();
+	std::ifstream  infile(filename);
+	int posN = 0;
+	std::string buff;
+	std::regex r(keyWord);
+	std::regex r_commet("--.*");
 	while (true)
 	{
-		infile.open(filename);
-		if (!infile || timeStep>Ntstep)
-			break;
-		keyWordValue.push_back(readKeyWordValue(filename, n));
-		timeStep++;
-		filename = filenameBase + io4st(timeStep);
-		infile.close();
-	}
+		if (!getline(infile, buff))
+		{
+			std::cout << filename << '\t' << keyWord << std::endl;
+			/*std::cerr << " Can't find the key word! in function whereIsKeyWord" << std::endl;*/
+			return 0;
+		}
+		if (!std::regex_match(buff, r_commet)){
+			posN++;
+		}
 
-	return keyWordValue;
+		if (std::regex_match(buff, r))
+			break;
+	}
+	return posN;
+
 }
+
+
 
 //Used to get the keyword "TSTEP" position
 std::vector<std::ios_base::streampos> getStreamPosition(const std::string& filename, const std::string& keyWordtoFind)
@@ -143,7 +119,7 @@ std::vector<std::ios_base::streampos> getStreamPosition(const std::string& filen
 	std::ifstream infile(filename);
 	std::string buff;
 	std::vector<std::ios_base::streampos> pos;
-	std::string matchStr = ".*" + keyWordtoFind + ".*";
+	std::string matchStr = ".*" + keyWordtoFind + ".*'REAL'";
 	std::regex r(keyWordtoFind);
 	while (true)
 	{
@@ -159,6 +135,8 @@ std::vector<std::ios_base::streampos> getStreamPosition(const std::string& filen
 }
 
 
+
+// getSinglePos  function is used in the Read Ecl Rst file class to read eclipse F file
 std::ios_base::streampos getSinglePos(const std::string& filename, const std::string& keyWordtoFind)
 {
 	std::ifstream infile(filename);
@@ -179,26 +157,26 @@ std::ios_base::streampos getSinglePos(const std::string& filename, const std::st
 }
 
 
-double getNextSingleValue(const std::string& filename, const std::string& keyWordtoFind){
-	std::ifstream infile(filename);
-	std::string buff;
-	std::ios_base::streampos pos;
-
-	while (true)
-	{
-		if (!getline(infile, buff))
-			break;
-		if (buff.find(keyWordtoFind, 0) != std::string::npos)
-		{
-			pos = infile.tellg();
-			break;
-		}
-	}
-	double var;
-	infile >> var;
-	infile.close();
-	return var;
-}
+//double getNextSingleValue(const std::string& filename, const std::string& keyWordtoFind){
+//	std::ifstream infile(filename);
+//	std::string buff;
+//	std::ios_base::streampos pos;
+//
+//	while (true)
+//	{
+//		if (!getline(infile, buff))
+//			break;
+//		if (buff.find(keyWordtoFind, 0) != std::string::npos)
+//		{
+//			pos = infile.tellg();
+//			break;
+//		}
+//	}
+//	double var;
+//	infile >> var;
+//	infile.close();
+//	return var;
+//}
 
 
 // Used to get the next value of "TSTEP"
@@ -216,6 +194,116 @@ std::vector<double> getNextValue(const std::string& filename, const std::string&
 		nextValue.push_back(buff);
 	}
 	return nextValue;
+}
+
+
+
+// read last line keyword value of each .AXXX eclipse output file
+std::vector<double> readMultiTimeStepValue(const std::string& projectName, const std::string& keyWord)
+{
+	std::vector<double> keyWordValue;
+	std::string filename;
+	std::string filenameBase;
+	std::ifstream infile;
+	int n = whereIsKeyWord(projectName + "_SUM.INC", keyWord);
+	if (n == 0){
+		return keyWordValue;
+	}
+	size_t timeStep = 1;
+	filenameBase = projectName + "_E100.A";
+	filename = filenameBase + "0001";
+
+	// get time step s
+	std::vector<std::ios_base::streampos> stPosV =
+		getStreamPosition(projectName + "_SCH.INC", "TSTEP");
+	size_t Ntstep = stPosV.size();
+	while (true)
+	{
+		infile.open(filename);
+		if (!infile || timeStep>Ntstep)
+			break;
+		keyWordValue.push_back(readKeyWordValue(filename, n));
+		timeStep++;
+		filename = filenameBase + io4st(timeStep);
+		infile.close();
+	}
+
+	return keyWordValue;
+}
+
+//usd to read keyword value(given it's postion) in one .AXXX eclipse output file
+void readMiniStep(std::vector<double>& vec, std::string filename, int nBeg){
+	std::vector<std::ios_base::streampos> posVec = getStreamPosition(filename, ".* 'PARAMS  '.*\\d+.*'REAL'.*");
+	std::ifstream infile(filename);
+	size_t Nsteps = posVec.size();
+	for (size_t i = 0; i < Nsteps; i++)
+	{
+		std::ios_base::streamoff off = 17 * (nBeg + 1) + (nBeg + 1) / 4 + 1;
+		infile.seekg(posVec[i]);
+		infile.seekg(off, std::ios_base::cur);
+		double buff;
+		infile >> buff;
+		vec.push_back(buff);
+	}
+}
+
+// used only to read all time steps in all .AXXX eclipse output file
+std::vector<double> readMiniTimeStep(const std::string& projectName){
+	//--- get how many timestep we have ( how many file we should read?)
+	std::vector<double> minitVec;
+
+	std::vector<std::ios_base::streampos> stPosV =
+		getStreamPosition(projectName + "_SCH.INC", "TSTEP");
+	size_t Ntstep = stPosV.size();
+
+	size_t timeStep = 1;
+	std::string filenameBase = projectName + "_E100.A";
+	std::string  filename = filenameBase + "0001";
+
+	while (true)
+	{
+		std::ifstream infile(filename);
+		if (!infile || timeStep>Ntstep)
+			break;
+		readMiniStep(minitVec, filename, -1);
+		timeStep++;
+		filename = filenameBase + io4st(timeStep);
+		infile.close();
+	}
+
+	return minitVec;
+}
+
+//  used only to read all keyword value for all mini timesteps in all .AXXX eclipse output file
+std::vector<double> readMultiMiniStep(const std::string& projectName, const std::string& keyWord){
+	//--- get how the keyword ranking from the beg
+	std::vector<double> eclVec;
+	int nBeg = whereIsKeyWordBeg(projectName + "_SUM.INC", keyWord);
+	if (nBeg == 0){
+		return eclVec;
+	}
+
+	//--- get how many timestep we have ( how many file we should read?)
+	std::vector<std::ios_base::streampos> stPosV =
+		getStreamPosition(projectName + "_SCH.INC", "TSTEP");
+	size_t Ntstep = stPosV.size();
+
+	size_t timeStep = 1;
+	std::string filenameBase = projectName + "_E100.A";
+	std::string  filename = filenameBase + "0001";
+
+	while (true)
+	{
+		std::ifstream infile(filename);
+		if (!infile || timeStep>Ntstep)
+			break;
+		readMiniStep(eclVec, filename, nBeg);
+		timeStep++;
+		filename = filenameBase + io4st(timeStep);
+		infile.close();
+	}
+
+	return eclVec;
 }
 
 // read NPV from the runed Eclipse file
@@ -274,7 +362,9 @@ double readNPV_OW(const std::string& projName)
 //std::cout << NPV << std::endl;
 
 
-//************************** 1.2 READ ECLIPSE RST FILES ****************************
+
+
+//*********************************************************** 1.2 READ ECLIPSE RST FILES ************************************************
 
 //read grid properties for each time step
 std::vector<matrix> readGrid(const std::string& projectName, const std::string& keyWord){
@@ -648,7 +738,7 @@ void writeVec(std::ofstream& fout, std::vector<T> vec){
 
 
 
-//***************************** 3.Function of Write ***********************
+//***************************** 3.Function of Write (for use in opt) ***********************
 // TESTED!
 void write2End(const double& x1, const double&x2, const std::string& filename){
 	std::ofstream outfile(filename, std::ios_base::app);

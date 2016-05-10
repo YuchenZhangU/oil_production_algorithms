@@ -120,7 +120,7 @@ void dropHoldAllSch(std::vector<double>& pVec, std::vector<double>& tVec,
 	pVec.clear();
 	tVec.clear();
 	pVec.push_back(Pi);
-	tVec.push_back(1e-6);
+	tVec.push_back(1e-4);
 	// generate drop schedule before Pb
 	drop(pVec, tVec, Pi, Pb, dropSlope, dt);
 
