@@ -1,4 +1,5 @@
 #pragma once
+#include "read_write.h"
 #include "eclipse.h"
 
 void compMultiCases(Eclipses& ecls, std::string caseToComp = "../Input/caseToComp.in"){
@@ -12,31 +13,25 @@ void compMultiCases(Eclipses& ecls, std::string caseToComp = "../Input/caseToCom
 
 int main(){
 	
-	//std::vector<double> FOPTvec = readMultiTimeStepValue("../Model/1/11","FOPT");
-	//std::vector<double> FOPRvec = readMultiTimeStepValue("../Model/1/11", "FOPR");
-	//std::ofstream out("../Output/out.out");
-	//out << vec2mat(FOPTvec) << std::endl;
-	//out << vec2mat(FOPRvec) << std::endl;
+	//std::vector<double> tVec;
+	//std::vector<double> pVec;
+
+	//dropHoldAllSch(pVec, tVec,6000,5000,1000, 5,5,16,1, 80,1800);
+	//
+	//std::ofstream fout("test.txt");
+	//fout << "x = [";
+	//writeVec(fout, tVec);
+	//fout << "];\ny=[";
+	//writeVec(fout, pVec);
+	//fout << "];\n";
+	//fout.close();
+
 	size_t Necl;
 	std::ifstream infile("caseNo.dat");
 	infile >> Necl;
-	Eclipses ecls_ALL(Necl, "", "11", "Input");
+	Eclipses ecls_ALL(Necl, "../Model/32_comp_ng_Nc_ratio", "11", "../Input/32_comp_ng_Nc_ratio");
 	//ecls_ALL.run();
 
-	//std::ifstream infile("../Input/1_test/sch.dat");
-	//std::vector<double> vec = readSingleLine(infile);
-
-	/*ecls_ALL.outputRaw("s1");*/
-	/*compMultiCases(ecls_ALL);*/
-
-	//std::vector<size_t> caseNs(4, 1);
-	//caseNs[1] = 2;
-	//caseNs[2] = 3;
-	//caseNs[3] = 4;
-	//ecls_ALL.compSomeCases(caseNs, "_test");
-
-	
-	/*ecls_ALL.outputRawFOPR("_All_40/rawFOPR.out");*/
 	
 
 

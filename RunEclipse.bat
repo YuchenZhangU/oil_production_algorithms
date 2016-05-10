@@ -1,4 +1,4 @@
-cd./../Model/_1_5000_ng4/case (2)/
+cd./../Model/32_comp_ng_Nc_ratio/case (32)/
 @echo offset ECLVER=2013.1
 set TEMP_PATH=C:\ecl\home\$eclrc.bat
 echo *

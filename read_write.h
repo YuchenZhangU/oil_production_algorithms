@@ -10,7 +10,7 @@
 
 typedef dlib::matrix<double> matrix;
 
-//*********************** 1.READ ECLIPSE FILE ***************************
+//*********************** 1.1 READ SCH ECLIPSE FILE ***************************
 
 double readKeyWordValue(const std::string& filename, const int& n);
 
@@ -143,6 +143,7 @@ std::vector<std::ios_base::streampos> getStreamPosition(const std::string& filen
 	std::ifstream infile(filename);
 	std::string buff;
 	std::vector<std::ios_base::streampos> pos;
+	std::string matchStr = ".*" + keyWordtoFind + ".*";
 	std::regex r(keyWordtoFind);
 	while (true)
 	{
@@ -156,6 +157,49 @@ std::vector<std::ios_base::streampos> getStreamPosition(const std::string& filen
 	}
 	return pos;
 }
+
+
+std::ios_base::streampos getSinglePos(const std::string& filename, const std::string& keyWordtoFind)
+{
+	std::ifstream infile(filename);
+	std::string buff;
+	std::ios_base::streampos pos;
+
+	while (true)
+	{
+		if (!getline(infile, buff))
+			break;
+		if (buff.find(keyWordtoFind, 0) != std::string::npos)
+		{
+			pos = infile.tellg();
+		}
+	}
+	infile.close();
+	return pos;
+}
+
+
+double getNextSingleValue(const std::string& filename, const std::string& keyWordtoFind){
+	std::ifstream infile(filename);
+	std::string buff;
+	std::ios_base::streampos pos;
+
+	while (true)
+	{
+		if (!getline(infile, buff))
+			break;
+		if (buff.find(keyWordtoFind, 0) != std::string::npos)
+		{
+			pos = infile.tellg();
+			break;
+		}
+	}
+	double var;
+	infile >> var;
+	infile.close();
+	return var;
+}
+
 
 // Used to get the next value of "TSTEP"
 std::vector<double> getNextValue(const std::string& filename, const std::string& keyWord)
@@ -230,6 +274,302 @@ double readNPV_OW(const std::string& projName)
 //std::cout << NPV << std::endl;
 
 
+//************************** 1.2 READ ECLIPSE RST FILES ****************************
+
+//read grid properties for each time step
+std::vector<matrix> readGrid(const std::string& projectName, const std::string& keyWord){
+	//--- read dimensions
+	size_t I;
+	size_t J;
+	size_t K;
+	std::string dataFile = projectName + "_E100.DATA";
+	std::ios_base::streampos Pos = getSinglePos(dataFile,"DIMENS");
+	std::ifstream infile(dataFile);
+	infile.seekg(Pos);
+	infile >> I >> J >> K;
+	infile.close();
+
+	//--- get time step s
+	std::vector<std::ios_base::streampos> stPosV =
+		getStreamPosition(projectName + "_SCH.INC", "TSTEP");
+	size_t Ntstep = stPosV.size();
+
+	//--- read property matrices
+	std::vector<matrix> matVec;
+	matrix mat(J,I);
+	std::string  filenameBase = projectName + "_E100.F";
+	for (size_t t = 1; t <= Ntstep; ++t){
+		std::string filename = filenameBase + io4st(t);
+		Pos = getSinglePos(filename, keyWord);
+		infile.open(filename);
+		infile.seekg(Pos);
+		for (size_t j = 0; j < J; ++j){
+			for (size_t i = 0; i < I; ++i){
+				infile >> mat(j, i);
+			}
+		}
+		matVec.push_back(mat);
+		infile.close();
+	}
+
+	return matVec;	
+}
+
+class rstData{
+public:
+	std::string mProjName;
+	std::vector<matrix> mPoMatVec;
+	std::vector<matrix> mSgMatVec;
+	std::vector<double> mTVec;
+	std::vector<double> mTCumVec;
+	std::vector<size_t> mDim;
+	
+	
+	rstData(){ ; }
+	rstData(std::string projName);
+
+	void updateDim();
+	void updateTVec();
+	void updateMatVec(std::vector<matrix>& matVec, std::string keyword);
+	void updateAll( std::string projName);
+	
+	// outpust Po Sg So
+	void outputMat(std::ofstream& outfile);
+	void outputMatByText(std::ofstream& outfile);
+	
+	void outputPlot();
+	void outputPlot(std::ofstream& outfile);
+	void outputSo(std::ofstream& outfile, size_t caseNum);
+	
+
+
+	void output1D(std::ofstream& outfile);
+	void outputSingleCellSo(std::ofstream& outilfe);
+};
+
+
+// output So of fracture vs time
+// output Fo of fracture vs time
+void rstData::outputSingleCellSo(std::ofstream& outfile){
+	outfile << "So_rel = [0.2	0.3	0.4	0.5	0.6	0.7	0.8	0.9	1];\n";
+	outfile << "Fo_rel = [0	0.00092969	0.004323816	0.011589118	0.025393903	0.05148754	0.104945178	0.241953654	1];\n";
+
+	outfile << "T = [" << dlib::trans(vec2mat(mTCumVec)) << "];\n";
+	outfile << "So = [";
+	for (size_t i = 0; i < mSgMatVec.size(); ++i){
+		outfile << 1 - mSgMatVec[i](31)<<" ";
+	}
+	outfile << "];\n";
+	outfile << "fo = interp1(So_rel,Fo_rel,So);\n";
+	outfile << "[hAx, hLine1, hLine2] = plotyy(T,So,T,fo)\n";
+	outfile << "hLine1.LineWidth = 2;\nhLine2.LineWidth = 2;\n";
+	outfile << "ylabel(hAx(1), 'Oil Saturation');\n";
+	outfile << "ylabel(hAx(2), 'Oil fractional flow');\n";
+	outfile << "title('fracture So and fo');\n";
+
+	outfile << "outSoFo = [So',fo'];\n";
+}
+
+//void rstData::outputSingleCellSo(std::ofstream& outfile){
+//	
+//}
+
+void rstData::output1D(std::ofstream& outfile){
+	size_t N = 20;
+	outfile << "L = 0.1*[1:" << N << "] - 0.05;";
+	/*outfile << "So_rel = [0.2	0.3	0.4	0.5	0.6	0.7	0.8	0.9	1];\n";
+	outfile << "Fo_rel = [0	0.00092969	0.004323816	0.011589118	0.025393903	0.05148754	0.104945178	0.241953654	1];\n";
+*/
+	for (size_t i = 0; i < mPoMatVec.size(); ++i){
+		outfile << "Po" << i + 1 << "=[" << dlib::colm(mPoMatVec[i], dlib::range(0, N-1)) << "];\n";
+		outfile << "So" << i + 1 << "=[" << 1 - dlib::colm(mSgMatVec[i], dlib::range(0, N-1)) << "];\n";
+		/*outfile << "dPo" << i + 1 << " = (Po" << i + 1 << "(2:end)-Po" << i + 1 << "(1:end-1))./dL;\n";
+		outfile << "Fo" << i + 1 << "= interp1(So_rel,Fo_rel,So" << i + 1 << ");\n";*/
+		outfile << "[hAx, hLine1, hLine2] = plotyy(L, So" << i + 1 << ", L, Po" << i + 1 << ")\n";
+		outfile << "hLine1.LineWidth = 2;\nhLine2.LineWidth = 2;\n";
+		outfile << "ylim(hAx(1),[0.85,1.01])\n";
+		outfile << "ylim(hAx(2),[4000,6000])\n";
+		//outfile << "xlim(hAx(1),[0, 5])\n";
+		//outfile << "xlim(hAx(2),[0, 5])\n";
+		outfile << "xlabel('distance from fracture/ft');\n";
+		outfile << "ylabel(hAx(1), 'Oil Saturation');\n";
+		outfile << "ylabel(hAx(2), 'Pressure(psi)');\n";
+		outfile << "title('So / Po vs L  t = " << i + 1 << "');\n";
+		outfile << "saveas(gcf,'plot/So_Po" << i + 1 << ".jpg');\n\n\n";
+
+
+		//outfile << "Po" << i + 1 << "=[" << dlib::colm(mPoMatVec[i], dlib::range(0, 20)) << "];\n";
+		//outfile << "So" << i + 1 << "=[" << 1 - dlib::colm(mSgMatVec[i], dlib::range(31, 62)) << "];\n";
+		//outfile << "dPo" << i + 1 << " = (Po" << i+1 << "(2:end)-Po" << i+1 << "(1:end-1))./dL;\n";
+		//outfile << "Fo" << i + 1 << "= interp1(So_rel,Fo_rel,So" << i + 1 << ");\n";
+		//outfile << "[hAx, hLine1, hLine2] = plotyy(L, Fo"<<i+1<<", L2, dPo"<<i+1<<")\n";
+		//outfile << "hLine1.LineWidth = 2;\nhLine2.LineWidth = 2;\n";
+		//outfile << "ylim(hAx(1),[0,1.01])\n";
+		//outfile << "ylim(hAx(2),[0,400])\n";
+		//outfile << "xlim(hAx(1),[0, 5])\n";
+		//outfile << "xlim(hAx(2),[0, 5])\n";
+		//outfile << "xlabel('distance from fracture/ft');\n";
+		//outfile << "ylabel(hAx(1), 'Oil Fractional Flow');\n";
+		//outfile << "ylabel(hAx(2), 'Pressure Gradient(psi/ft)');\n";
+		//outfile << "title('Fo / Grad(P) vs L  t = "<<i+1<<"');\n";
+		//outfile << "saveas(gcf,'plot3/dP_Fo" << i +1<<".jpg');\n\n\n";
+		
+	}
+	
+}
+
+void rstData::updateDim(){
+	std::string dataFile = mProjName + "_E100.DATA";
+	std::ios_base::streampos Pos = getSinglePos(dataFile, "DIMENS");
+	std::ifstream infile(dataFile);
+	infile.seekg(Pos);
+	mDim.resize(3);
+	infile >> mDim[0] >> mDim[1] >> mDim[2];
+	infile.close();
+}
+
+void rstData::updateTVec(){
+	mTVec = getNextValue(mProjName + "_SCH.INC", "TSTEP");
+	mTCumVec.resize(mTVec.size());
+	std::partial_sum(mTVec.begin(), mTVec.end(), mTCumVec.begin());
+}
+void rstData::updateMatVec(std::vector<matrix>& matVec, std::string keyword){
+	matVec.clear();
+	matrix mat(mDim[1], mDim[0]);
+	std::ios_base::streampos Pos;
+	std::string  filenameBase = mProjName + "_E100.F";
+	for (size_t t = 1; t <= mTVec.size(); ++t){
+		std::string filename = filenameBase + io4st(t);
+		Pos = getSinglePos(filename, keyword);
+		std::ifstream infile(filename);
+		infile.seekg(Pos);
+		for (size_t j = 0; j < mDim[1]; ++j){
+			for (size_t i = 0; i < mDim[0]; ++i){
+				infile >> mat(j, i);
+			}
+		}
+		matVec.push_back(mat);
+		infile.close();
+	}
+
+}
+
+
+void rstData::updateAll(std::string projName){
+	mProjName = projName;
+	updateDim();
+	updateTVec();
+	updateMatVec(mPoMatVec, "PRESSURE");
+	updateMatVec(mSgMatVec, "SGAS");
+}
+
+rstData::rstData(std::string projName){
+	updateAll(projName);
+}
+
+
+void rstData::outputMat(std::ofstream& outfile){
+	for (size_t i = 0; i < mTVec.size(); ++i){
+		outfile << "t = " << mTCumVec[i] << std::endl;
+		outfile << "PoMat" << i + 1 << "=[" << dlib::subm(mPoMatVec[i], dlib::range(0, 0), dlib::range(0, 10)) << "];" << std::endl;
+		outfile << "SgMat" << i + 1 << "=[" << dlib::subm(mSgMatVec[i], dlib::range(0, 0), dlib::range(0, 10)) << "];" << std::endl;
+		outfile << "SoMat" << i + 1 << "= 1-SgMat" << i + 1 << ";" << std::endl;
+	}
+}
+
+//void rstData::outputMatByText(std::ofstream& outfile){
+//	for (size_t i = 0; i < mTCumVec.size(); ++i){
+//		outfile << "t = " << mTCumVec[i] << std::endl;
+//		outfile << "Po\tSo\n";
+//		matrix posoMat()
+//		outfile << 
+//	}
+//}
+
+void rstData::outputPlot(){
+	std::ofstream outfile("_plotSoPo.m");
+	for (size_t i = 0; i < mTVec.size(); ++i){
+		outfile << "PoMat" << i + 1 << "=[" << dlib::subm(mPoMatVec[i], dlib::range(0, 0), dlib::range(59, 69)) << "];" << std::endl;
+		outfile << "SgMat" << i + 1 << "=[" << dlib::subm(mSgMatVec[i], dlib::range(0, 0), dlib::range(59, 69)) << "];" << std::endl;
+		outfile << "SoMat" << i + 1 << "= 1-SgMat" << i + 1 << ";" << std::endl;
+	}
+		
+		outfile << "wt =[ 0.2429	0.2034	0.1703	0.1426	0.1194	0.1	0.1194	0.1426	0.1703	0.2034	0.2429]" << std::endl;
+		outfile << "wt = wt';" << std::endl;
+		outfile << "wt_sum = sum(wt);" << std::endl;
+		outfile << "Sg= [];" << std::endl;
+		for (size_t i = 0; i < mTVec.size(); ++i){
+			outfile << "Sg=[Sg SgMat" << i + 1 << "*wt/wt_sum];" << std::endl;
+		}
+		outfile << "T = [" << dlib::trans(vec2mat(mTCumVec)) << "];" << std::endl;
+		outfile << "plot(T,Sg,'LineWidth',2);" << std::endl;
+		outfile << "xlabel('time/days');" << std::endl;
+		outfile << "ylabel('gas saturation');" << std::endl;
+		outfile << "title('saturation change of perforated area');" << std::endl;
+}
+
+void rstData::outputPlot(std::ofstream& outfile){
+	for (size_t i = 0; i < mTVec.size(); ++i){
+		outfile << "PoMat" << i + 1 << "=[" << dlib::subm(mPoMatVec[i], dlib::range(0, 0), dlib::range(59, 69)) << "];" << std::endl;
+		outfile << "SgMat" << i + 1 << "=[" << dlib::subm(mSgMatVec[i], dlib::range(0, 0), dlib::range(59, 69)) << "];" << std::endl;
+		outfile << "SoMat" << i + 1 << "= 1-SgMat" << i + 1 << ";" << std::endl;
+	}
+
+	outfile << "wt =[ 0.2429	0.2034	0.1703	0.1426	0.1194	0.1	0.1194	0.1426	0.1703	0.2034	0.2429]" << std::endl;
+	outfile << "wt = wt';" << std::endl;
+	outfile << "wt_sum = sum(wt);" << std::endl;
+	outfile << "Sg= [];" << std::endl;
+	outfile << "Po = [];\n\n";
+	for (size_t i = 0; i < mTVec.size(); ++i){
+		outfile << "Sg=[Sg SgMat" << i + 1 << "*wt/wt_sum];\n" << std::endl;
+	}
+	for (size_t i = 0; i < mTVec.size(); ++i){
+		outfile << "Po=[Po PoMat" << i + 1 << "*wt/wt_sum];\n" << std::endl;
+	}
+
+	outfile << "T = [" << dlib::trans(vec2mat(mTCumVec)) << "];" << std::endl;
+	outfile << "plot(T,Sg,'LineWidth',2);" << std::endl;
+	outfile << "xlabel('time/days');" << std::endl;
+	outfile << "ylabel('gas saturation');" << std::endl;
+	outfile << "title('saturation change of perforated area');\n" << std::endl;
+
+	outfile << "figure;\n";
+	outfile << "plot(T,Po,'LineWidth',2);" << std::endl;
+	outfile << "xlabel('time/days');" << std::endl;
+	outfile << "ylabel('pressure');" << std::endl;
+	outfile << "title('pressure change of perforated area');\n" << std::endl;
+	
+}
+
+// averaging the so of near fracture blocks
+void rstData::outputSo(std::ofstream& outfile, size_t caseNum){
+	matrix wt(1, 11);
+	wt = 0.2429, 0.2034, 0.1703, 0.1426, 0.1194, 0.1, 0.1194, 0.1426, 0.1703, 0.2034, 0.2429;
+	double wt_sum = dlib::sum(wt);
+	wt = dlib::trans(wt);
+	matrix poMat(mTVec.size(), 1);
+	matrix sgMat(mTVec.size(), 1);
+	matrix soMat(mTVec.size(), 1);
+	for (size_t i = 0; i < mTVec.size(); ++i){
+		matrix PoPerated = dlib::subm(mPoMatVec[i], dlib::range(0, 0), dlib::range(59, 69));
+		matrix SgPerated = dlib::subm(mSgMatVec[i], dlib::range(0, 0), dlib::range(59, 69));
+		double PoAve = PoPerated*wt/wt_sum;
+		double SgAve = SgPerated*wt / wt_sum;
+		poMat(i) = PoAve;
+		sgMat(i) = SgAve;
+	}
+	soMat = 1 - sgMat;
+
+	matrix caseNMat = caseNum *	dlib::ones_matrix<double>(mTVec.size(), 1);
+	matrix outMat(mTVec.size(), 5);
+	dlib::set_colm(outMat, 0) = caseNMat;
+	dlib::set_colm(outMat, 1) = vec2mat(mTCumVec);
+	dlib::set_colm(outMat, 2) = poMat;
+	dlib::set_colm(outMat, 3) = sgMat;
+	dlib::set_colm(outMat, 4) = soMat;
+	outfile << outMat;
+}
+
 
 //************************* 2.READ INPUT DATA ********************************
 // This function is simply for reading text file with one value each line
@@ -244,15 +584,6 @@ std::vector<double> readSingleValue(std::string filename)
 		valueVec.push_back(std::stod(buff));
 	}
 	return valueVec;
-}
-
-// This function is read to read a single line and convert this into a double type vector
-std::vector<double> readSingleLine(std::ifstream& infile){
-	std::string buffstr;
-	getline(infile, buffstr);
-	std::istringstream is(buffstr);
-	std::vector<double> vec((std::istream_iterator<double>(is)), std::istream_iterator<double>());
-	return vec;
 }
 
 // read multi line double type data
@@ -271,22 +602,6 @@ std::vector<std::vector<double>> readMultiLines(std::string filename)
 	}
 	return valueVV;
 }
-
-//matrix readMultiLines(std::string filename)
-//{
-//	std::ifstream infile(filename);
-//	std::string buffStr;
-//	std::vector<std::vector<double>> valueVV;
-//	while (true){
-//		if (!getline(infile, buffStr))
-//			break;
-//		std::istringstream is(buffStr);
-//		std::vector<double> v((std::istream_iterator<double>(is)), std::istream_iterator<double>());
-//		valueVV.push_back(v);
-//	}
-//	return matirx;
-//}
-
 
 std::vector<std::vector<size_t>> readMultiLines_t(std::string filename)
 {
@@ -321,6 +636,16 @@ std::vector<double> initialWellControl(const std::string& filename, const int& t
 	}
 	return xVec;
 }
+
+//***************************** 3.Write ***********************
+template<typename T>
+void writeVec(std::ofstream& fout, std::vector<T> vec){
+	for (size_t i = 0; i < vec.size(); ++i){
+		fout << vec[i] << " ";
+	}
+	fout << std::endl;
+}
+
 
 
 //***************************** 3.Function of Write ***********************
@@ -384,16 +709,3 @@ void writeCtrl2M(const matrix& uVec, const std::string& filename_w,const std::st
 	}
 }
 
-
-
-
-////		/*outfile << "wCtrl_inj" << it << " = [" << uMat_inj << "];\n";
-//outfile << "figure;\n";
-//outfile << "imagesc(" << "wCtrl_inj" << it << ");\n";
-//outfile << "colorbar;\n";
-//outfile << "colormap(jet);\n"; */
-/*outfile << "wCtrl_prod" << it << " = [" << uMat_prod << "];\n";
-outfile << "figure;\n";
-outfile << "imagesc(" << "wCtrl_prod" << it << ");\n";
-outfile << "colorbar;\n";
-outfile << "colormap(jet);\n\n";*/

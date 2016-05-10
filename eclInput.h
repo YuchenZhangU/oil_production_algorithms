@@ -47,6 +47,102 @@ void addDropIntV(std::vector<double>& tVec, std::vector<double>& pVec,
 }
 
 
+void drop(std::vector<double>& pVec, std::vector<double>& tVec, double Pi, double Pend, double dropSlope, double dt){
+	double p = Pi;
+	while (true){
+		if (p - dt*dropSlope > Pend){
+			p = p - dt*dropSlope;
+			tVec.push_back(dt);
+			pVec.push_back(p);
+		}
+		else{
+			tVec.push_back((p - Pend) / dropSlope);
+			pVec.push_back(Pend);
+			break;
+		}
+	}
+}
+
+void hold(std::vector<double>& pVec, std::vector<double>& tVec, double Pi,double Time, double dt){
+	double dT = 0;
+	while (true){
+		if (dT + dt < Time){
+			dT += dt;
+			pVec.push_back(Pi);
+			tVec.push_back(dt);
+		}
+		else{
+			pVec.push_back(Pi);
+			tVec.push_back(Time - dT);
+			break;
+		}
+	}
+}
+
+
+
+void dropHoldSch(std::vector<double>& pVec, std::vector<double>& tVec,
+	double Pi, double Pb, double Plow, size_t Nc, double dropInv,
+	double h_d_ratio, double dt, double dropSlope, double last_hold){
+	
+	if (Nc*dropSlope*dropInv>Pb - Plow){
+		std::cerr << "Too many drop-hold circle, the BHP will drop to lower bound!" << std::endl;
+	}
+	
+	pVec.clear();
+	tVec.clear();
+	pVec.push_back(Pi);
+	tVec.push_back(1e-6);
+	// generate drop schedule before Pb
+	drop(pVec, tVec, Pi, Pb, dropSlope, dt);
+
+	//generate drop-hold schedule
+	double pDrop = dropSlope*dropInv;
+	double holdInv = dropInv*h_d_ratio;
+	for (size_t i=1; i < Nc; ++i){
+		drop(pVec, tVec, pVec.back(), pVec.back() - pDrop, dropSlope, dt);
+		hold(pVec, tVec, pVec.back(), holdInv, dt);
+	}
+	//generate last drop-hold schedule, the last hold maybe very short
+	drop(pVec, tVec, pVec.back(), pVec.back() - pDrop, dropSlope, dt);
+	hold(pVec, tVec, pVec.back(), last_hold, dt);
+}
+
+
+void dropHoldAllSch(std::vector<double>& pVec, std::vector<double>& tVec,
+	double Pi, double Pb, double Plow, size_t Nc, double dropInv,
+	double h_d_ratio, double dt, double dropSlope, double Time){
+
+	if (Nc*dropSlope*dropInv>Pb - Plow){
+		std::cerr << "Too many drop-hold circle, the BHP will drop to lower bound!" << std::endl;
+	}
+
+	pVec.clear();
+	tVec.clear();
+	pVec.push_back(Pi);
+	tVec.push_back(1e-6);
+	// generate drop schedule before Pb
+	drop(pVec, tVec, Pi, Pb, dropSlope, dt);
+
+	//generate drop-hold schedule
+	double pDrop = dropSlope*dropInv;
+	double holdInv = dropInv*h_d_ratio;
+	for (size_t i = 1; i <= Nc; ++i){
+		drop(pVec, tVec, pVec.back(), pVec.back() - pDrop, dropSlope, dt);
+		hold(pVec, tVec, pVec.back(), holdInv, dt);
+	}
+
+	//drop to pressure lower bound
+	drop(pVec, tVec, pVec.back(), Plow, dropSlope / Nc, dt);
+
+	//hold until end
+	double sumT = 0;
+	for (double n : tVec)
+		sumT += n;
+	hold(pVec, tVec, pVec.back(), Time-sumT, dt * 10);
+}
+
+
 
 
 // ------------------- well --------------------------
@@ -98,10 +194,22 @@ struct eclInput{
 	std::vector<double> mPresVec;
 	std::vector<well> mWells;
 	
+	// the following four varaible are used when build schedules
+	double mPi;
+	double mPb;
+	double mPlow;	//psi
+	double mTime;	//days
+	
 	/*void generateVec();*/
 	void updateAll(const std::string& fileFold);
-	void updateSch(std::ifstream& infileT, std::ifstream& infileP);
 	void updateWellData(const std::string& fileFold);
+	void updateReservoir(const std::string& fileFold);
+
+
+	void updateSch(std::ifstream& infile);
+	void updateSch(size_t Nc, double dropInv, double h_d_ratio, double dropSlope, double dt);
+	void updateSch(std::vector<double> P, std::vector<double> T);
+	
 
 	eclInput(){ ; }
 	eclInput(const std::string& filename);
@@ -113,6 +221,15 @@ struct eclInput{
 
 
 //-- define the way to update and initialize eclInput
+
+void eclInput::updateReservoir(const std::string& fileFold){
+	std::ifstream infile(fileFold + "/reservoir.dat");
+	infile >> mPi;
+	infile >> mPb;
+	infile >> mPlow;
+	infile >> mTime;
+	infile.close();
+}
 
 void eclInput::updateWellData(const std::string& fileFold)
 {
@@ -127,19 +244,25 @@ void eclInput::updateWellData(const std::string& fileFold)
 	}
 }
 
-void eclInput::updateSch(std::ifstream& infileT, std::ifstream& infileP){
+void eclInput::updateSch(size_t Nc, double dropInv, double h_d_ratio,  double dt ,double dropSlope){
 	mTimeVec.clear();
 	mPresVec.clear();
-	mTimeVec = readSingleLine(infileT);
-	mPresVec = readSingleLine(infileP);
+	dropHoldAllSch(mPresVec, mTimeVec, mPi, mPb, mPlow, Nc, dropInv, h_d_ratio, dt, dropSlope, mTime);
 	mCumTimeVec.resize(mTimeVec.size());
 	std::partial_sum(mTimeVec.begin(), mTimeVec.end(), mCumTimeVec.begin());
+}
+
+void eclInput::updateSch(std::ifstream& infile){
+	double Nc, dropInv, h_d_ratio, dt, dropSlope;
+	infile >> Nc >> dropInv >> h_d_ratio >> dt >> dropSlope;
+	updateSch(Nc, dropInv, h_d_ratio, dt, dropSlope);
 }
 
 
 void eclInput::updateAll(const std::string& inputFold){
 	/*std::string schFile = inputFold + "/sch.dat";*/
 	updateWellData(inputFold);
+	updateReservoir(inputFold);
 }
 
 eclInput::eclInput(const std::string& inputFold){

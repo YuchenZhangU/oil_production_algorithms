@@ -1,25 +1,25 @@
-﻿Build started 3/3/2016 1:07:33 PM.
-     1>Project "C:\Users\yuz899\Google Drive\optimization\_GYJ\_EclWrite3\Ecl_write1\Ecl_write1.vcxproj" on node 2 (Build target(s)).
+﻿Build started 5/4/2016 5:51:17 PM.
+     1>Project "C:\Users\yuz899\Google Drive\optimization\_GYJ_2016_Alg\_EclWrite3\Ecl_write1\Ecl_write1.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
          main.cpp
-     1>c:\users\yuz899\google drive\optimization\_gyj\_eclwrite3\ecl_write1\generalfuc.h(130): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\yuz899\google drive\optimization\_gyj\_eclwrite3\ecl_write1\generalfuc.h(131): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\yuz899\google drive\optimization\_gyj\_eclwrite3\ecl_write1\generalfuc.h(139): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\yuz899\google drive\optimization\_gyj\_eclwrite3\ecl_write1\generalfuc.h(140): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\yuz899\google drive\optimization\_gyj\_eclwrite3\ecl_write1\eclinput.h(73): warning C4800: 'double' : forcing value to bool 'true' or 'false' (performance warning)
-     1>c:\users\yuz899\google drive\optimization\_gyj\_eclwrite3\ecl_write1\generalfuc.h(29): warning C4018: '<' : signed/unsigned mismatch
-                 c:\users\yuz899\google drive\optimization\_gyj\_eclwrite3\ecl_write1\generalfuc.h(163) : see reference to function template instantiation 'std::vector<double,std::allocator<_Ty>> mat2vec<double>(const dlib::matrix<double,0,0,dlib::memory_manager_stateless_kernel_1<char>,dlib::row_major_layout> &)' being compiled
+     1>c:\users\yuz899\google drive\optimization\_gyj_2016_alg\_eclwrite3\ecl_write1\generalfuc.h(130): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\yuz899\google drive\optimization\_gyj_2016_alg\_eclwrite3\ecl_write1\generalfuc.h(131): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\yuz899\google drive\optimization\_gyj_2016_alg\_eclwrite3\ecl_write1\generalfuc.h(139): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\yuz899\google drive\optimization\_gyj_2016_alg\_eclwrite3\ecl_write1\generalfuc.h(140): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\yuz899\google drive\optimization\_gyj_2016_alg\_eclwrite3\ecl_write1\eclinput.h(169): warning C4800: 'double' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\yuz899\google drive\optimization\_gyj_2016_alg\_eclwrite3\ecl_write1\generalfuc.h(29): warning C4018: '<' : signed/unsigned mismatch
+                 c:\users\yuz899\google drive\optimization\_gyj_2016_alg\_eclwrite3\ecl_write1\generalfuc.h(163) : see reference to function template instantiation 'std::vector<double,std::allocator<_Ty>> mat2vec<double>(const dlib::matrix<double,0,0,dlib::memory_manager_stateless_kernel_1<char>,dlib::row_major_layout> &)' being compiled
                  with
                  [
                      _Ty=double
                  ]
-     1>c:\users\yuz899\google drive\optimization\_gyj\_eclwrite3\ecl_write1\read_write.h(61): warning C4715: 'io4st' : not all control paths return a value
+     1>c:\users\yuz899\google drive\optimization\_gyj_2016_alg\_eclwrite3\ecl_write1\read_write.h(61): warning C4715: 'io4st' : not all control paths return a value
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\yuz899\Google Drive\optimization\_GYJ\_EclWrite3\Debug\Ecl_write1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\yuz899\Google Drive\optimization\_GYJ\_EclWrite3\Debug\Ecl_write1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\yuz899\Google Drive\optimization\_GYJ\_EclWrite3\Debug\Ecl_write1.lib" /MACHINE:X86 Debug\main.obj
-         Ecl_write1.vcxproj -> C:\Users\yuz899\Google Drive\optimization\_GYJ\_EclWrite3\Debug\Ecl_write1.exe
-     1>Done Building Project "C:\Users\yuz899\Google Drive\optimization\_GYJ\_EclWrite3\Ecl_write1\Ecl_write1.vcxproj" (Build target(s)).
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\yuz899\Google Drive\optimization\_GYJ_2016_Alg\_EclWrite3\Debug\Ecl_write1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\yuz899\Google Drive\optimization\_GYJ_2016_Alg\_EclWrite3\Debug\Ecl_write1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\yuz899\Google Drive\optimization\_GYJ_2016_Alg\_EclWrite3\Debug\Ecl_write1.lib" /MACHINE:X86 Debug\main.obj
+         Ecl_write1.vcxproj -> C:\Users\yuz899\Google Drive\optimization\_GYJ_2016_Alg\_EclWrite3\Debug\Ecl_write1.exe
+     1>Done Building Project "C:\Users\yuz899\Google Drive\optimization\_GYJ_2016_Alg\_EclWrite3\Ecl_write1\Ecl_write1.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:03.76
+Time Elapsed 00:00:05.39

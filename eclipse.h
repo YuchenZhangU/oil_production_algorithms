@@ -25,11 +25,14 @@ public:
 	eclipse(){ ; }
 	eclipse(std::string fName, std::string pName, std::string iName);
 	void updateAll(std::string fName, std::string pName, std::string iName);
-	void updatesch(std::ifstream& infileT, std::ifstream& infileP);
+	void updateSch(size_t Nc, double dropInv, double h_d_ratio, double dt, double dropSlope);
+	void updateSch(std::ifstream& infile);
 
 	//--- functions
 	void writeSchFile();
 	void run();
+	void runAlg(size_t Nc, double dropInv, double h_d_ratio, double dt, double dropSlope);
+
 	//---------- read functions
 	std::vector<double> readFOPT();
 	std::vector<double> readFOPR();
@@ -42,8 +45,14 @@ public:
 
 
 // <1>---------------- update and constructor --------------
-void eclipse::updatesch(std::ifstream& infileT, std::ifstream& infileP){
-	mInput.updateSch(infileT,infileP);
+void eclipse::updateSch(size_t Nc, double dropInv, double h_d_ratio, double dt, double dropSlope){
+	mInput.updateSch(Nc, dropInv,h_d_ratio, dt, dropSlope);
+	writeSchFile();
+}
+
+void eclipse::updateSch(std::ifstream& infile){
+	mInput.updateSch(infile);
+	writeSchFile();
 }
 
 void eclipse::writeSchFile(){
@@ -70,7 +79,7 @@ void eclipse::updateAll(std::string fName, std::string pName, std::string iName)
 	mProjFold = fName;
 	mProjName = pName;
 	mInputFold = iName;
-	mInput.updateAll(mInputFold);		//initilize completion & schedule data
+	mInput.updateAll(mInputFold);		//initilize completion & reservoir data, but not sch file
 	nOfProd = 0;
 	nOfRun = 0;
 	nOfFail = 0;
@@ -136,6 +145,12 @@ void eclipse::run(){
 	//outfile << nOfRun << "\n";
 }
 
+void eclipse::runAlg(size_t Nc, double dropInv, double h_d_ratio, double dt, double dropSlope){
+	updateSch(Nc, dropInv,h_d_ratio, dt,dropSlope);
+	run();
+	
+}
+
 
 
 // <3> -----------------Read Functions -------------------
@@ -189,6 +204,9 @@ class Eclipses
 	//--- functions 
 	void run();
 
+
+
+	//--- comp fuctions ---
 	void compBHP(std::string outFileName, std::string title);
 	void compFOPR(std::string outFileName,std::string title);
 	void compFOPT(std::string outFileName,  std::string title);
@@ -199,9 +217,11 @@ class Eclipses
 	void compKeywordValue(std::string keyword, std::string outFileName,
 		std::vector<size_t> caseNums, std::string title);
 	void compSomeBHP(std::vector<size_t> caseNums, std::string outFileName, std::string title);
-	void outputSomeFOPT(std::vector<size_t> caseNums, std::string outFileName);
 	void compSomeCases(std::vector<size_t> caseNums, std::string foldNameInOutput);
 
+
+	//--- output functions ---
+	void outputSomeFOPT(std::vector<size_t> caseNums, std::string outFileName);
 	void outputRawFOPR(std::string outFileName);
 	void outputRawFOPT(std::string outFileName);
 	void outputNPV(std::string outFileName);
@@ -217,25 +237,23 @@ void Eclipses::updateAll(size_t Necl, std::string modelFold, std::string projNam
 	mEclVec.resize(Necl);
 
 
-	std::string tstepName = iName + "/tstep.dat";
-	std::string schName = iName + "/sch.dat";
-	
-	std::ifstream tIn(tstepName);
-	std::ifstream schIn(schName);
+	std::string inFileName = iName + "/sch.dat";
+	std::ifstream infile(inFileName);
 
-	for (size_t i = 0; i < Necl; ++i){
-		mEclVec[i].updatesch(tIn,schIn);
-	}
+
 
 
 	for (size_t i = 0; i < Necl;++i){
-		std::string projFold = modelFold + "case (" + std::to_string(i + 1)+")";
+		std::string projFold = modelFold + "/case (" + std::to_string(i + 1)+")";
 		mEclVec[i].updateAll(projFold, projName, iName);
 	}
 
-	tIn.close();
-	schIn.close();
-	
+
+	for (size_t i = 0; i < Necl; ++i){
+		mEclVec[i].updateSch(infile);
+	}
+
+	infile.close();
 }
 
 
@@ -252,6 +270,9 @@ void Eclipses::run(){
 }
 
 
+
+
+//=================================================================================================
 
 // <3>------------------- FUNCTIONS for comparison -----------------------
 
