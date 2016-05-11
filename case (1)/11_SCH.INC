@@ -1,0 +1,2457 @@
+WELSPECS
+'PROD' 'WGRP' 1 1 10500 'OIL' 9* 'STD' /
+/
+
+COMPDAT
+'PROD' 17 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 18 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 19 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 20 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 21 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 22 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 23 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 24 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 25 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 26 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 27 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 60 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 61 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 62 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 63 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 64 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 65 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 66 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 67 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 68 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 69 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 70 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 103 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 104 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 105 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 106 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 107 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 108 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 109 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 110 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 111 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 112 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 113 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 146 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 147 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 148 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 149 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 150 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 151 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 152 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 153 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 154 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 155 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 156 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 189 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 190 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 191 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 192 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 193 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 194 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 195 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 196 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 197 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 198 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 199 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 232 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 233 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 234 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 235 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 236 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 237 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 238 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 239 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 240 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 241 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 242 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 275 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 276 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 277 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 278 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 279 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 280 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 281 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 282 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 283 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 284 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 285 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 318 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 319 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 320 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 321 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 322 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 323 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 324 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 325 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 326 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 327 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 328 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 361 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 362 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 363 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 364 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 365 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 366 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 367 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 368 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 369 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 370 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 371 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 404 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 405 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 406 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 407 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 408 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 409 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 410 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 411 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 412 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 413 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 414 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 447 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 448 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 449 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 450 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 451 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 452 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 453 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 454 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 455 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 456 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 457 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 490 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 491 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 492 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 493 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 494 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 495 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 496 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 497 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 498 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 499 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 500 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 533 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 534 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 535 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 536 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 537 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 538 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 539 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 540 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 541 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 542 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 543 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 576 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 577 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 578 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 579 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 580 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 581 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 582 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 583 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 584 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 585 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 586 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 619 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 620 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 621 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 622 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 623 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 624 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 625 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 626 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 627 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 628 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 629 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 662 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 663 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 664 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 665 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 666 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 667 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 668 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 669 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 670 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 671 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 672 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 705 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 706 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 707 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 708 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 709 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 710 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 711 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 712 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 713 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 714 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 715 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 748 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 749 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 750 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 751 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 752 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 753 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 754 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 755 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 756 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 757 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 758 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 791 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 792 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 793 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 794 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 795 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 796 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 797 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 798 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 799 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 800 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 801 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 834 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 835 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 836 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 837 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 838 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 839 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 840 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 841 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 842 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 843 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 844 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 877 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 878 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 879 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 880 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 881 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 882 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 883 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 884 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 885 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 886 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 887 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 920 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 921 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 922 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 923 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 924 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 925 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 926 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 927 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 928 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 929 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 930 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 963 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 964 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 965 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 966 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 967 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 968 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 969 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 970 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 971 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 972 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 973 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1006 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1007 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1008 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1009 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1010 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1011 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1012 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1013 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1014 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1015 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1016 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1049 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1050 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1051 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1052 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1053 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1054 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1055 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1056 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1057 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1058 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1059 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1092 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1093 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1094 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1095 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1096 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1097 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1098 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1099 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1100 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1101 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1102 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1135 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1136 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1137 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1138 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1139 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1140 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1141 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1142 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1143 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1144 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1145 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1178 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1179 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1180 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1181 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1182 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1183 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1184 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1185 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1186 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1187 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1188 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1221 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1222 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1223 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1224 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1225 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1226 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1227 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1228 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1229 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1230 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1231 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1264 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1265 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1266 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1267 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1268 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1269 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1270 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1271 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1272 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1273 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1274 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1307 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1308 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1309 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1310 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1311 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1312 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1313 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1314 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1315 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1316 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1317 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1350 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1351 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1352 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1353 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1354 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1355 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1356 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1357 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1358 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1359 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1360 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1393 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1394 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1395 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1396 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1397 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1398 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1399 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1400 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1401 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1402 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1403 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1436 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1437 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1438 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1439 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1440 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1441 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1442 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1443 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1444 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1445 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1446 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1479 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1480 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1481 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1482 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1483 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1484 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1485 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1486 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1487 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1488 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1489 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1522 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1523 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1524 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1525 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1526 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1527 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1528 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1529 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1530 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1531 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1532 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1565 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1566 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1567 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1568 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1569 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1570 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1571 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1572 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1573 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1574 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1575 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1608 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1609 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1610 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1611 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1612 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1613 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1614 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1615 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1616 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1617 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1618 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1651 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1652 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1653 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1654 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1655 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1656 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1657 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1658 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1659 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1660 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1661 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1694 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1695 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1696 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1697 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1698 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1699 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1700 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1701 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1702 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1703 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+COMPDAT
+'PROD' 1704 1 1 1 'OPEN' 2* 0.4 3* 'X' 1* /
+/
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 6000 /
+/
+
+TSTEP
+1e-006 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 5920 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 5840 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 5760 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 5680 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 5600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 5520 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 5440 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 5360 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 5280 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 5200 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 5120 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 5040 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 5000 /
+/
+
+TSTEP
+0.5 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4920 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4840 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4760 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4680 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD' 'OPEN' 'BHP' 5* 4600 /
+/
+
+TSTEP
+1 /
+

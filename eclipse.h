@@ -29,11 +29,13 @@ public:
 	void updateAll(std::string fName, std::string pName, std::string iName);
 	void updateSch(size_t Nc, double dropInv, double h_d_ratio, double dt, double dropSlope);
 	void updateSch(std::ifstream& infile);
+	void updateHoldSch(size_t Nc, double dropInv, double h_d_ratio, double dt, double dropSlope, double last_hold);
 	void updateStatic(std::string fName, std::string pName, std::string iName);
 
 	//--- functions
 	void writeSchFile();
 	void run();
+	void runHoldAlg(size_t Nc, double dropInv, double h_d_ratio, double dt, double dropSlope, double last_hold);
 	void runAlg(size_t Nc, double dropInv, double h_d_ratio, double dt, double dropSlope);
 
 	//---------- read functions
@@ -77,6 +79,14 @@ void eclipse::updateSch(std::ifstream& infile){
 	mInput.updateSch(infile);
 	writeSchFile();
 }
+
+void eclipse::updateHoldSch(size_t Nc, double dropInv, double h_d_ratio, double dt, double dropSlope, double last_hold){
+	mInput.updateHoldSch(Nc, dropInv, h_d_ratio, dropSlope, dt,last_hold);
+	writeSchFile();
+}
+
+
+
 
 void eclipse::updateStatic(std::string fName, std::string pName, std::string iName){
 	mProjFold = fName;
@@ -152,8 +162,13 @@ void eclipse::run(){
 void eclipse::runAlg(size_t Nc, double dropInv, double h_d_ratio, double dt, double dropSlope){
 	updateSch(Nc, dropInv,h_d_ratio, dt,dropSlope);
 	run();
-	
 }
+
+void eclipse::runHoldAlg(size_t Nc, double dropInv, double h_d_ratio, double dt, double dropSlope, double last_hold){
+	updateHoldSch(Nc, dropInv, h_d_ratio, dt, dropSlope, last_hold);
+	run();
+}
+
 
 
 

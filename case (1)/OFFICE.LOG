@@ -1,0 +1,1218 @@
+Log File: Wed Jan 13  15:40:20  2016
+
+Config File: ./ECL.CFG
+
+Info:    Program running
+Info:    PVM Running...
+Info:    License: Check out of office license feature successful
+Info:    License: office license expiry date 19/2/2016
+Info:    ECLIPSE Office: Version '2013.1 Jun 14 2013'
+Info:    Reading NEW RunSpec format
+Info:    Reading TITLE
+Info:    Reading START
+Info:    Reading FIELD
+Info:    Reading FMTIN
+Info:    Reading FMTOUT
+Info:    Reading GAS
+Info:    Reading OIL
+Info:    Reading DISGAS
+Info:    Reading NSTACK
+Info:    Reading MONITOR
+Info:    Reading RSSPEC
+Info:    Reading MSGFILE
+Info:    Reading WSEGDIMS
+Info:    Reading DIMENS
+Info:    Reading EQLDIMS
+Info:    Reading REGDIMS
+Info:    Reading TABDIMS
+Info:    Reading WELLDIMS
+Info:    Reading GRID section
+Info:    Domain: Global 1720 23 1
+Info:    Box: (1:1720, 1:23, 1:1)
+Info:    Reading GRIDFILE
+Info:    Reading INIT
+Info:    Include C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_GOPP.INC opened
+Info:    Include 11_GOPP.INC closing
+Info:    Include C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_GGO.INC opened
+Info:    Reading GRIDUNIT
+Info:    Reading MAPAXES
+Info:    Reading ECHO
+Info:    Reading DXV
+Info:    Reading DYV
+Info:    Reading DZ
+Info:    Reading TOPS
+Info:    Include 11_GGO.INC closing
+Info:    Include C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_GPRO.INC opened
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading COPY
+Info:    Reading COPY
+Info:    Reading COPY
+Info:    Reading COPY
+Info:    Include 11_GPRO.INC closing
+Info:    Include C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_GOTH.INC opened
+Info:    Reading ECHO
+Info:    Reading OLDTRANR
+Info:    Include 11_GOTH.INC closing
+Info:    Read PROPS
+Info:    Read INIT
+Info:    Reading PVT Section
+Info:    Include C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_PVT.INC opened
+Info:    Reading ECHO
+Info:    Reading RPTPROPS
+Info:    Reading ECHO
+Info:    Reading DENSITY
+Info:    Reading PVDG
+Info:    Reading PVTO
+Info:    Reading ECHO
+Info:    Reading ROCK
+Info:    Include 11_PVT.INC closing
+Info:    Include C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_SCAL.INC opened
+Info:    Reading ECHO
+Info:    Reading SCAL Section
+Info:    Reading SGFN
+Info:    Reading SOF2
+Info:    Include 11_SCAL.INC closing
+Info:    Read SOLUTION
+Info:    Reading SOLUTION Section
+Info:    Include C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_INIT.INC opened
+Info:    Reading ECHO
+Info:    Reading EQUIL
+Info:    Reading RSVD
+Info:    Reading ECHO
+Info:    Reading RPTSOL
+Info:    Include 11_INIT.INC closing
+Info:    Read SUMMARY
+Info:    Reading Summary section
+Info:    Include C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_SUM.INC opened
+Info:    Include 11_SUM.INC closing
+Info:    Include C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_SCH.INC opened
+Info:    Include 11_SCH.INC closing
+Info:    Time to import case 3.566000 secs
+Info:    Created data manager module
+Info:    New SCAL Module
+Info:    Creating data manager SCAL section
+Info:    Domain: Global 1720 23 1
+Info:    Box: (1:1720, 1:23, 1:1)
+Info:    Initialising SCAL properties
+Info:    Dimensions: 1720, 23 and 1
+Info:    Checking for existing SCAL include file
+Info:    SCAL include file: C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_SCAL.INC
+Info:    Opening file 11_SCAL.INC
+Info:    Initialising SCAL properties
+Info:    Dimensions: 1720, 23 and 1
+Info:    Reading file 11_SCAL.INC
+Info:    Inspecting file contents ...
+Info:    Reading SCAL Section
+Info:    Reading ECHO
+Info:    Reading SGFN
+Info:    Reading SOF2
+Info:    File input completed
+Info:    Closing file 11_SCAL.INC
+Warning: Data base doesn't recognise the keyword TRADS for this section
+Warning: Data base doesn't recognise the keyword IKRG for this section
+Warning: Data base doesn't recognise the keyword IKRGR for this section
+Warning: Data base doesn't recognise the keyword IKRW for this section
+Warning: Data base doesn't recognise the keyword IKRWH for this section
+Warning: Data base doesn't recognise the keyword IKRWR for this section
+Warning: Data base doesn't recognise the keyword IKRWRH for this section
+Warning: Data base doesn't recognise the keyword IKRO for this section
+Warning: Data base doesn't recognise the keyword IKRORG for this section
+Warning: Data base doesn't recognise the keyword IKRORW for this section
+Warning: Data base doesn't recognise the keyword KRG for this section
+Warning: Data base doesn't recognise the keyword KRGR for this section
+Warning: Data base doesn't recognise the keyword KRO for this section
+Warning: Data base doesn't recognise the keyword KRORG for this section
+Warning: Data base doesn't recognise the keyword KRORW for this section
+Warning: Data base doesn't recognise the keyword KRW for this section
+Warning: Data base doesn't recognise the keyword KRWH for this section
+Warning: Data base doesn't recognise the keyword KRWR for this section
+Warning: Data base doesn't recognise the keyword KRWRH for this section
+Warning: Data base doesn't recognise the keyword ENDNUM for this section
+Warning: Data base doesn't recognise the keyword IMBNUM for this section
+Warning: Data base doesn't recognise the keyword IMBNUMX for this section
+Warning: Data base doesn't recognise the keyword IMBNUMX- for this section
+Warning: Data base doesn't recognise the keyword IMBNUMY for this section
+Warning: Data base doesn't recognise the keyword IMBNUMY- for this section
+Warning: Data base doesn't recognise the keyword IMBNUMR for this section
+Warning: Data base doesn't recognise the keyword IMBNUMR- for this section
+Warning: Data base doesn't recognise the keyword IMBNUMT for this section
+Warning: Data base doesn't recognise the keyword IMBNUMT- for this section
+Warning: Data base doesn't recognise the keyword IMBNUMZ for this section
+Warning: Data base doesn't recognise the keyword IMBNUMZ- for this section
+Warning: Data base doesn't recognise the keyword KRNUM for this section
+Warning: Data base doesn't recognise the keyword SATNUM for this section
+Info:    Creating SCAL Keyword Module
+Info:    Closing SCAL Keyword Module
+Info:    Closing data manager module
+Info:    File C:\ecl\2013.1\resource\rvdefaults.xml was read successfully
+Info:    Created data manager module
+Info:    New Initialization Module
+Info:    Creating data manager INIT section
+Info:    Dimensions: 1720, 23 and 1
+Info:    Reading file C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_PVT.INC ...
+Info:    Checking for existing INIT include file
+Info:    INIT include file: C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_INIT.INC
+Info:    Opening file 11_INIT.INC
+Info:    Reading file 11_INIT.INC
+Info:    Inspecting file contents ...
+Info:    Reading SOLUTION Section
+Info:    Reading ECHO
+Info:    Reading EQUIL
+Info:    Reading RSVD
+Info:    Reading ECHO
+Info:    Reading RPTSOL
+Info:    Dimensions: 1720, 23 and 1
+Warning: Data base doesn't recognise the keyword TVDP for this section
+Warning: Data base doesn't recognise the keyword RPTSLN for this section
+Warning: Data base doesn't recognise the keyword SOLVCONC for this section
+Warning: Data base doesn't recognise the keyword TBLK for this section
+Warning: Data base doesn't recognise the keyword TBLK for this section
+Warning: Data base doesn't recognise the keyword TIADS for this section
+Warning: Data base doesn't recognise the keyword TVDP for this section
+Warning: Data base doesn't recognise the keyword RPTSLN for this section
+Warning: Data base doesn't recognise the keyword SOLVCONC for this section
+Warning: Data base doesn't recognise the keyword TBLK for this section
+Warning: Data base doesn't recognise the keyword TBLK for this section
+Warning: Data base doesn't recognise the keyword TIADS for this section
+Warning: Data base doesn't recognise the keyword TVDP for this section
+Warning: Data base doesn't recognise the keyword RPTSLN for this section
+Warning: Data base doesn't recognise the keyword SOLVCONC for this section
+Warning: Data base doesn't recognise the keyword TBLK for this section
+Warning: Data base doesn't recognise the keyword TBLK for this section
+Warning: Data base doesn't recognise the keyword TIADS for this section
+Warning: Data base doesn't recognise the keyword TVDP for this section
+Warning: Data base doesn't recognise the keyword RPTSLN for this section
+Warning: Data base doesn't recognise the keyword SOLVCONC for this section
+Warning: Data base doesn't recognise the keyword TBLK for this section
+Warning: Data base doesn't recognise the keyword TBLK for this section
+Warning: Data base doesn't recognise the keyword TIADS for this section
+Warning: Data base doesn't recognise the keyword TVDP for this section
+Warning: Data base doesn't recognise the keyword RPTSLN for this section
+Warning: Data base doesn't recognise the keyword SOLVCONC for this section
+Warning: Data base doesn't recognise the keyword TBLK for this section
+Warning: Data base doesn't recognise the keyword TBLK for this section
+Warning: Data base doesn't recognise the keyword TIADS for this section
+Warning: Data base doesn't recognise the keyword TVDP for this section
+Warning: Data base doesn't recognise the keyword RPTSLN for this section
+Warning: Data base doesn't recognise the keyword SOLVCONC for this section
+Warning: Data base doesn't recognise the keyword TBLK for this section
+Warning: Data base doesn't recognise the keyword TBLK for this section
+Warning: Data base doesn't recognise the keyword TIADS for this section
+Warning: Data base doesn't recognise the keyword TVDP for this section
+Warning: Data base doesn't recognise the keyword RPTSLN for this section
+Warning: Data base doesn't recognise the keyword SOLVCONC for this section
+Warning: Data base doesn't recognise the keyword TBLK for this section
+Warning: Data base doesn't recognise the keyword TBLK for this section
+Warning: Data base doesn't recognise the keyword TIADS for this section
+Warning: Data base doesn't recognise the keyword TVDP for this section
+Warning: Data base doesn't recognise the keyword RPTSLN for this section
+Warning: Data base doesn't recognise the keyword SOLVCONC for this section
+Warning: Data base doesn't recognise the keyword TBLK for this section
+Warning: Data base doesn't recognise the keyword TBLK for this section
+Warning: Data base doesn't recognise the keyword TIADS for this section
+Warning: Data base doesn't recognise the keyword TVDP for this section
+Warning: Data base doesn't recognise the keyword RPTSLN for this section
+Warning: Data base doesn't recognise the keyword SOLVCONC for this section
+Warning: Data base doesn't recognise the keyword TBLK for this section
+Warning: Data base doesn't recognise the keyword TBLK for this section
+Warning: Data base doesn't recognise the keyword TIADS for this section
+Warning: Data base doesn't recognise the keyword TVDP for this section
+Warning: Data base doesn't recognise the keyword RPTSLN for this section
+Warning: Data base doesn't recognise the keyword SOLVCONC for this section
+Warning: Data base doesn't recognise the keyword TBLK for this section
+Warning: Data base doesn't recognise the keyword TBLK for this section
+Warning: Data base doesn't recognise the keyword TIADS for this section
+Warning: Data base doesn't recognise the keyword TVDP for this section
+Warning: Data base doesn't recognise the keyword RPTSLN for this section
+Warning: Data base doesn't recognise the keyword SOLVCONC for this section
+Warning: Data base doesn't recognise the keyword TBLK for this section
+Warning: Data base doesn't recognise the keyword TBLK for this section
+Warning: Data base doesn't recognise the keyword TIADS for this section
+Warning: Data base doesn't recognise the keyword TVDP for this section
+Warning: Data base doesn't recognise the keyword RPTSLN for this section
+Warning: Data base doesn't recognise the keyword SOLVCONC for this section
+Warning: Data base doesn't recognise the keyword TBLK for this section
+Warning: Data base doesn't recognise the keyword TBLK for this section
+Warning: Data base doesn't recognise the keyword TIADS for this section
+Info:    Project file saved
+Info:    Initialization Data Saved
+Info:    Project file saved
+Info:    Closing INIT module
+Info:    REGION file save dialog still exists
+Info:    Closing data manager module
+Info:    Created data manager module
+Info:    New Initialization Module
+Info:    Creating data manager INIT section
+Info:    Dimensions: 1720, 23 and 1
+Info:    Reading file C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_PVT.INC ...
+Info:    Checking for existing INIT include file
+Info:    INIT include file: C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_INIT.INC
+Info:    Opening file 11_INIT.INC
+Info:    Reading file 11_INIT.INC
+Info:    Inspecting file contents ...
+Info:    Reading SOLUTION Section
+Info:    Reading ECHO
+Info:    Reading RSVD
+Info:    Reading ECHO
+Info:    Reading SGAS
+Info:    Reading SOIL
+Info:    Reading SWAT
+Info:    Reading PRESSURE
+Info:    Reading ECHO
+Info:    Reading RPTSOL
+Info:    Dimensions: 1720, 23 and 1
+Info:    Reading file C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_REG.INC ...
+Info:    Closing file C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_REG.INC
+Info:    Reading REGIONS Section
+Info:    Closing INIT module
+Info:    Closing data manager module
+Info:    Exporting file 11_E100
+Info:    Environment is ECLRUN
+Info:    Eclrun option is now available with Office
+Info:    Created Run Module
+Info:    11_E100 Output File is Formatted and Multiple
+Info:    Run 1 : Simulation Waiting
+Info:    Removing old simulation files...
+Info:    Run submitted process id 4924 on simulation resource 1
+Info:    Run 1 : Simulation Running
+Info:    Run process id 4924 failed. Errors or bugs produced.
+Info:    Run 1 : Simulation Failed
+Info:    Case 11_E100 finished.
+Info:    Simulations Finished. Timer Stopped
+Info:    Created data manager module
+Info:    New Case Definition Module
+Info:    Checking for existing RUNSPEC include file
+Info:    Reading Generic RUNSPEC Section
+Info:    Checking for existing RUNSPEC include file
+Info:    Reading Generic RUNSPEC Section
+Info:    Reading NEW RunSpec format
+Info:    Reading TITLE
+Info:    Reading START
+Info:    Reading FIELD
+Info:    Reading FMTIN
+Info:    Reading FMTOUT
+Info:    Reading GAS
+Info:    Reading OIL
+Info:    Reading DISGAS
+Info:    Reading NSTACK
+Info:    Reading MONITOR
+Info:    Reading RSSPEC
+Info:    Reading MSGFILE
+Info:    Reading WSEGDIMS
+Info:    Reading DIMENS
+Info:    Reading EQLDIMS
+Info:    Reading REGDIMS
+Info:    Reading TABDIMS
+Info:    Reading WELLDIMS
+Info:    New Initialization Module
+Info:    Creating data manager INIT section
+Info:    Dimensions: 1720, 23 and 1
+Info:    Reading file C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_PVT.INC ...
+Info:    Checking for existing INIT include file
+Info:    INIT include file: C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_INIT.INC
+Info:    Opening file 11_INIT.INC
+Info:    Reading file 11_INIT.INC
+Info:    Inspecting file contents ...
+Info:    Reading SOLUTION Section
+Info:    Reading ECHO
+Info:    Reading RSVD
+Info:    Reading ECHO
+Info:    Reading SGAS
+Info:    Reading SOIL
+Info:    Reading SWAT
+Info:    Reading PRESSURE
+Info:    Reading ECHO
+Info:    Reading RPTSOL
+Info:    Dimensions: 1720, 23 and 1
+Info:    Reading file C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_REG.INC ...
+Info:    Closing file C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_REG.INC
+Info:    Reading REGIONS Section
+Info:    No change in array keyword PRESSURE detected
+Info:    Project file saved
+Info:    Initialization Data Saved
+Info:    Reading file C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_REG.INC ...
+Info:    Closing file C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_REG.INC
+Info:    Reading REGIONS Section
+Info:    Project file saved
+Info:    Closing INIT module
+Info:    REGION file save dialog still exists
+Info:    Closing data manager module
+Info:    Exporting file 11_E100
+Info:    Environment is ECLRUN
+Info:    Eclrun option is now available with Office
+Info:    Created Run Module
+Info:    11_E100 Output File is Formatted and Multiple
+Info:    Run 1 : Simulation Waiting
+Info:    Removing old simulation files...
+Info:    Run submitted process id 4476 on simulation resource 1
+Info:    Run 1 : Simulation Running
+Info:    Run process id 4476 failed. Errors or bugs produced.
+Info:    Run 1 : Simulation Failed
+Info:    Case 11_E100 finished.
+Info:    Simulations Finished. Timer Stopped
+Info:    Reading NEW RunSpec format
+Info:    Reading TITLE
+Info:    Reading START
+Info:    Reading FIELD
+Info:    Reading FMTIN
+Info:    Reading FMTOUT
+Info:    Reading GAS
+Info:    Reading OIL
+Info:    Reading DISGAS
+Info:    Reading NSTACK
+Info:    Reading MONITOR
+Info:    Reading RSSPEC
+Info:    Reading NOINSPEC
+Info:    Reading MSGFILE
+Info:    Reading WSEGDIMS
+Info:    Reading DIMENS
+Info:    Reading EQLDIMS
+Info:    Reading REGDIMS
+Info:    Reading TABDIMS
+Info:    Reading WELLDIMS
+Info:    BLACK OIL data set - defaulted to ECLIPSE
+Info:    Reading GRID section
+Info:    Domain: Global 1720 23 1
+Info:    Box: (1:1720, 1:23, 1:1)
+Info:    Reading GRIDFILE
+Info:    Reading INIT
+Info:    Include C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_GOPP.INC opened
+Info:    Include 11_GOPP.INC closing
+Info:    Include C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_GGO.INC opened
+Info:    Reading ECHO
+Info:    Reading GRIDUNIT
+Info:    Reading MAPAXES
+Info:    Reading DXV
+Info:    Reading DYV
+Info:    Reading DZ
+Info:    Reading TOPS
+Info:    Include 11_GGO.INC closing
+Info:    Include C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_GPRO.INC opened
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading BOX
+Info:    Reading EQUALS
+Info:    Reading EQUALS
+Info:    Reading ENDBOX
+Info:    Reading COPY
+Info:    Reading COPY
+Info:    Reading COPY
+Info:    Reading COPY
+Info:    Include 11_GPRO.INC closing
+Info:    Include C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_GOTH.INC opened
+Info:    Reading ECHO
+Info:    Reading OLDTRANR
+Info:    Include 11_GOTH.INC closing
+Info:    Read PROPS
+Info:    Read INIT
+Info:    Reading PVT Section
+Info:    Include C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_PVT.INC opened
+Info:    Reading ECHO
+Info:    Reading RPTPROPS
+Info:    Reading ECHO
+Info:    Reading DENSITY
+Info:    Reading PVDG
+Info:    Reading PVTO
+Info:    Reading ECHO
+Info:    Reading ROCK
+Info:    Include 11_PVT.INC closing
+Info:    Include C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_SCAL.INC opened
+Info:    Reading ECHO
+Info:    Reading SCAL Section
+Info:    Reading SGFN
+Info:    Reading SOF2
+Info:    Include 11_SCAL.INC closing
+Info:    Read REGIONS
+Info:    Reading REGIONS Section
+Info:    Include C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_REG.INC opened
+Info:    Include 11_REG.INC closing
+Info:    Reading SOLUTION Section
+Info:    Include C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_INIT.INC opened
+Info:    Reading ECHO
+Info:    Reading PBUB
+Info:    Reading ECHO
+Info:    Reading SGAS
+Info:    Reading SOIL
+Info:    Reading PRESSURE
+Info:    Reading ECHO
+Info:    Reading RPTSOL
+Info:    Include 11_INIT.INC closing
+Info:    Read SUMMARY
+Info:    Reading Summary section
+Info:    Include C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_SUM.INC opened
+Info:    Include 11_SUM.INC closing
+Info:    Include C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_SCH.INC opened
+Info:    Include 11_SCH.INC closing
+Info:    Time to import case 7.728000 secs
+Info:    Exporting file 11_E100
+Info:    Environment is ECLRUN
+Info:    Eclrun option is now available with Office
+Info:    Created Run Module
+Info:    11_E100 Output File is Formatted and Multiple
+Info:    Run 1 : Simulation Waiting
+Info:    Removing old simulation files...
+Info:    Run submitted process id 6552 on simulation resource 1
+Info:    Run 1 : Simulation Running
+Info:    Run process id 6552 failed. Errors or bugs produced.
+Info:    Run 1 : Simulation Failed
+Info:    Case 11_E100 finished.
+Info:    Simulations Finished. Timer Stopped
+Info:    Created data manager module
+Info:    New Initialization Module
+Info:    Creating data manager INIT section
+Info:    Dimensions: 1720, 23 and 1
+Info:    Reading file C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_PVT.INC ...
+Info:    Checking for existing INIT include file
+Info:    INIT include file: C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_INIT.INC
+Info:    Opening file 11_INIT.INC
+Info:    Reading file 11_INIT.INC
+Info:    Inspecting file contents ...
+Info:    Reading SOLUTION Section
+Info:    Reading ECHO
+Info:    Reading PBUB
+Info:    Reading SGAS
+Info:    Reading SOIL
+Info:    Reading PRESSURE
+Info:    Reading ECHO
+Info:    Reading RPTSOL
+Info:    Dimensions: 1720, 23 and 1
+Info:    Reading file C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_REG.INC ...
+Info:    Closing file C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_REG.INC
+Info:    Reading REGIONS Section
+Info:    Project file saved
+Info:    Initialization Data Saved
+Info:    Reading file C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_REG.INC ...
+Info:    Closing file C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_REG.INC
+Info:    Reading REGIONS Section
+Info:    Project file saved
+Info:    Closing INIT module
+Info:    REGION file save dialog still exists
+Info:    Closing data manager module
+Info:    Exporting file 11_E100
+Info:    Environment is ECLRUN
+Info:    Eclrun option is now available with Office
+Info:    Created Run Module
+Info:    11_E100 Output File is Formatted and Multiple
+Info:    Run 1 : Simulation Waiting
+Info:    Removing old simulation files...
+Info:    Run submitted process id 1912 on simulation resource 1
+Info:    Run 1 : Simulation Running
+Info:    Loading Summary File C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_E100.A0001
+Info:    Summary file 11_E100.A0001 read
+Info:    Loading Summary File C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_E100.A0002
+Info:    Summary file 11_E100.A0002 read
+Info:    Loading Summary File C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_E100.A0003
+Info:    Summary file 11_E100.A0003 read
+Info:    Loading Summary File C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_E100.A0004
+Info:    Summary file 11_E100.A0004 read
+Info:    Loading Summary File C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_E100.A0005
+Info:    Summary file 11_E100.A0005 read
+Info:    Loading Summary File C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_E100.A0006
+Info:    Summary file 11_E100.A0006 read
+Info:    Loading Summary File C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_E100.A0007
+Info:    Summary file 11_E100.A0007 read
+Info:    Loading Summary File C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_E100.A0008
+Info:    Summary file 11_E100.A0008 read
+Info:    Loading Summary File C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_E100.A0009
+Info:    Summary file 11_E100.A0009 read
+Info:    Loading Summary File C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_E100.A0010
+Info:    Summary file 11_E100.A0010 read
+Info:    Run process id 1912 finished on simulation resource 1
+Info:    Run 1 : Simulation Finished
+Info:    Case 11_E100 finished.
+Info:    Simulations Finished. Timer Stopped
+Info:    Exporting file 11_E100
+Info:    Environment is ECLRUN
+Info:    Eclrun option is now available with Office
+Info:    Created Run Module
+Info:    11_E100 Output File is Formatted and Multiple
+Info:    Run 1 : Simulation Waiting
+Info:    Removing old simulation files...
+Info:    Run submitted process id 2872 on simulation resource 1
+Info:    Run 1 : Simulation Running
+Info:    Loading Summary File C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_E100.A0001
+Info:    Summary file 11_E100.A0001 read
+Info:    Loading Summary File C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_E100.A0002
+Info:    Summary file 11_E100.A0002 read
+Info:    Loading Summary File C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_E100.A0003
+Info:    Summary file 11_E100.A0003 read
+Info:    Loading Summary File C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_E100.A0004
+Info:    Summary file 11_E100.A0004 read
+Info:    Loading Summary File C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_E100.A0005
+Info:    Summary file 11_E100.A0005 read
+Info:    Loading Summary File C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_E100.A0006
+Info:    Summary file 11_E100.A0006 read
+Info:    Loading Summary File C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_E100.A0007
+Info:    Summary file 11_E100.A0007 read
+Info:    Loading Summary File C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_E100.A0008
+Info:    Summary file 11_E100.A0008 read
+Info:    Loading Summary File C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_E100.A0009
+Info:    Summary file 11_E100.A0009 read
+Info:    Loading Summary File C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_E100.A0010
+Info:    Summary file 11_E100.A0010 read
+Info:    Run process id 2872 finished on simulation resource 1
+Info:    Run 1 : Simulation Finished
+Info:    Case 11_E100 finished.
+Info:    Simulations Finished. Timer Stopped
+Info:    File C:\ecl\2013.1\resource\rvdefaults.xml was read successfully
+Info:    Selected C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11_E100.FGRID
+Info:    Scratch file C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\pmScratch.0.6588 created
+Info:    Reading grid file format
+Info:    Grid file 11_E100.FGRID read
+Info:    Grid file 11_E100.FGRID read successfully
+Info:    New Solution Selection Module
+Info:    INIT File 11_E100.FINIT read
+Info:    File C:\ecl\2013.1\resource\rvdefaults.xml was read successfully
+Info:    Selected C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy - Copy\11_E100.FEGRID
+Info:    Selecting INIT file    C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy - Copy\11_E100.FINIT
+Info:    Selecting Restart file C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy - Copy\11_E100.FRSSPEC
+Info:    Selecting Grid file    C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy - Copy\11_E100.FEGRID
+Info:    Scratch file C:\Users\yuz899\Google Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\pmScratch.0.6588 created
+Info:    Reading extensible grid file format
+Info:    Format version 3 (2013)
+Info:    Skipping keyword GDORIENT
+Info:    Grid file 11_E100.FEGRID read
+Info:    Grid file 11_E100.FEGRID read successfully
+Info:    INIT File 11_E100.FINIT read
+Info:    Project file saved

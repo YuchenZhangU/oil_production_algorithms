@@ -18,7 +18,7 @@ double readKeyWordValue(const std::string& filename, const int& n)
 {
 	std::ifstream infile(filename);
 
-	std::ios_base::streamoff off = -17 * n - n / 4 - 1;
+	std::ios_base::streamoff off = -17 * n - n / 4 * 2 - 2;
 	std::string valueString;
 	double dig;
 

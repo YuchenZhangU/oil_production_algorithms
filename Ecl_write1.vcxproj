@@ -11,6 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="dropholdAlg.h" />
     <ClInclude Include="eclInput.h" />
     <ClInclude Include="eclipse.h" />
     <ClInclude Include="ecl_write.h" />

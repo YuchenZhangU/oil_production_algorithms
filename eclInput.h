@@ -79,6 +79,23 @@ void hold(std::vector<double>& pVec, std::vector<double>& tVec, double Pi,double
 	}
 }
 
+void holdIncreaseT(std::vector<double>& pVec, std::vector<double>& tVec, double Pi, double Time, double dt){
+	double dT = 0;
+	while (true){
+		if (dT + dt < Time){
+			dT += dt;
+			pVec.push_back(Pi);
+			tVec.push_back(dt);
+			dt = dt*1.5;
+		}
+		else{
+			pVec.push_back(Pi);
+			tVec.push_back(Time - dT);
+			break;
+		}
+	}
+}
+
 
 
 void dropHoldSch(std::vector<double>& pVec, std::vector<double>& tVec,
@@ -133,13 +150,13 @@ void dropHoldAllSch(std::vector<double>& pVec, std::vector<double>& tVec,
 	}
 
 	//drop to pressure lower bound
-	drop(pVec, tVec, pVec.back(), Plow, dropSlope / Nc, dt);
+	drop(pVec, tVec, pVec.back(), Plow, dropSlope / (Nc+1), dt);
 
 	//hold until end
 	double sumT = 0;
 	for (double n : tVec)
 		sumT += n;
-	hold(pVec, tVec, pVec.back(), Time-sumT, dt * 10);
+	holdIncreaseT(pVec, tVec, pVec.back(), Time - sumT, dt);
 }
 
 
@@ -209,6 +226,7 @@ struct eclInput{
 	void updateSch(std::ifstream& infile);
 	void updateSch(size_t Nc, double dropInv, double h_d_ratio, double dropSlope, double dt);
 	void updateSch(std::vector<double> P, std::vector<double> T);
+	void updateHoldSch(size_t Nc, double dropInv, double h_d_ratio, double dropSlope, double dt, double last_hold);
 	
 
 	eclInput(){ ; }
@@ -247,15 +265,26 @@ void eclInput::updateWellData(const std::string& fileFold)
 void eclInput::updateSch(size_t Nc, double dropInv, double h_d_ratio,  double dt ,double dropSlope){
 	mTimeVec.clear();
 	mPresVec.clear();
+	mCumTimeVec.clear();
 	dropHoldAllSch(mPresVec, mTimeVec, mPi, mPb, mPlow, Nc, dropInv, h_d_ratio, dt, dropSlope, mTime);
 	mCumTimeVec.resize(mTimeVec.size());
 	std::partial_sum(mTimeVec.begin(), mTimeVec.end(), mCumTimeVec.begin());
 }
 
+
 void eclInput::updateSch(std::ifstream& infile){
 	double Nc, dropInv, h_d_ratio, dt, dropSlope;
 	infile >> Nc >> dropInv >> h_d_ratio >> dt >> dropSlope;
 	updateSch(Nc, dropInv, h_d_ratio, dt, dropSlope);
+}
+
+void eclInput::updateHoldSch(size_t Nc, double dropInv, double h_d_ratio, double dropSlope, double dt, double last_hold){
+	mTimeVec.clear();
+	mPresVec.clear();
+	mCumTimeVec.clear();
+	dropHoldSch(mPresVec, mTimeVec, mPi, mPb, mPlow, Nc, dropInv, h_d_ratio, dt, dropSlope, last_hold);
+	mCumTimeVec.resize(mTimeVec.size());
+	std::partial_sum(mTimeVec.begin(), mTimeVec.end(), mCumTimeVec.begin());
 }
 
 

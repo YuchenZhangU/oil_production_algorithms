@@ -1,0 +1,12614 @@
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 6000 3* 6* 1*/
+/
+
+TSTEP
+0 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 5920 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 5840 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 5760 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 5680 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 5600 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 5520 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 5440 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 5360 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 5280 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 5200 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 5120 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 5040 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 5000 3* 6* 1*/
+/
+
+TSTEP
+5.000000e-01 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4920 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4840 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4760 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4680 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4600 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4600 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4600 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4600 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4600 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4600 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4600 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4600 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4600 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4600 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4600 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4600 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4600 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4600 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4600 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4600 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4600 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4600 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4600 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4600 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4600 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4520 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4440 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4360 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4280 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4200 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4200 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4200 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4200 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4200 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4200 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4200 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4200 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4200 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4200 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4200 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4200 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4200 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4200 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4200 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4200 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4200 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4200 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4200 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4200 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4200 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4120 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 4040 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 3960 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 3880 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 3800 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 3720 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 3640 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 3560 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 3480 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 3400 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 3320 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 3240 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 3160 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 3080 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 3000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 2920 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 2840 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 2760 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 2680 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 2600 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 2520 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 2440 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 2360 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 2280 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 2200 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 2120 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 2040 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1960 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1880 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1800 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1720 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1640 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1560 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1480 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1400 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1320 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1240 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1160 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1080 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+1 /
+
+WCONPROD
+'PROD1' 'OPEN' 'BHP' 5* 1000 3* 6* 1*/
+/
+
+TSTEP
+5.000000e-01 /
+

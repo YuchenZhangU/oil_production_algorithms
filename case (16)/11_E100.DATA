@@ -1,0 +1,120 @@
+--
+-- -----------------------------------------------------------------------------
+-- Office Simulation File (DATA) Data Section Version 2013.1 Jun 14 2013
+-- -----------------------------------------------------------------------------
+--
+-- File: 11_E100.DATA
+-- Created on: 13-Jan-2016 at: 16:04:08
+--
+-- *****************************************************************************
+-- *                                  WARNING                                  *
+-- *                THIS FILE HAS BEEN AUTOMATICALLY GENERATED.                *
+-- *          ANY ATTEMPT TO EDIT MANUALLY MAY RESULT IN INVALID DATA.         *
+-- *****************************************************************************
+--
+ 
+RUNSPEC
+ 
+TITLE
+Two Phase Black Oil
+ 
+START
+ 1 'DEC' 2015 /
+ 
+FIELD
+ 
+FMTIN
+ 
+FMTOUT
+ 
+GAS
+ 
+OIL
+ 
+DISGAS
+ 
+NSTACK
+ 25 /
+ 
+MONITOR
+ 
+RSSPEC
+ 
+NOINSPEC
+ 
+MSGFILE
+ 1 /
+ 
+WSEGDIMS
+ 1 500 1 1 /
+ 
+DIMENS
+ 1720 23 1 /
+ 
+EQLDIMS
+ 1 100 100 1 20 /
+ 
+REGDIMS
+ 1 1 0 10 /
+ 
+TABDIMS
+ 1 1 20 20 1 20 20 1 /
+ 
+WELLDIMS
+ 2 441 2 10 /
+ 
+ 
+GRID
+ 
+GRIDFILE
+ 2 /
+ 
+INIT
+ 
+INCLUDE
+'11_GOPP.INC'  /
+
+INCLUDE
+'11_GGO.INC'  /
+
+INCLUDE
+'11_GPRO.INC'  /
+
+INCLUDE
+'11_GOTH.INC'  /
+
+ 
+PROPS
+ 
+INCLUDE
+'11_PVT.INC'  /
+
+INCLUDE
+'11_SCAL.INC'  /
+
+
+REGIONS
+
+INCLUDE
+'11_REG.INC'  /
+
+ 
+SOLUTION
+ 
+INCLUDE
+'11_INIT.INC'  /
+
+ 
+SUMMARY
+ 
+INCLUDE
+'11_SUM.INC'  /
+
+ 
+SCHEDULE
+ 
+INCLUDE
+'11_SCH.INC'  /
+
+ 
+END

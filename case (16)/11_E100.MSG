@@ -1,0 +1,104 @@
+<eclipse>
+<message date="1/12/2015" time="0.00000000000000">
+ CHECKING FOR LICENSES                                                   
+</message>
+<message date="1/12/2015" time="0.00000000000000">
+ CHECKING FOR LICENSES                                                   
+</message>
+<message date="1/12/2015" time="0.00000000000000">
+ THE MEMORY REQUIRED TO PROCESS THE GRID SECTION IS                      
+      17259 KBYTES                                                       
+</message>
+<warning date="1/12/2015" time="0.00000000000000">
+ FLUX FLAG SET IN RUNSPEC BUT FLUXNUM KEYWORD                            
+ NOT USED -- SAVE SPACE BY SETTING NTFREG = 0                            
+ IN RUNSPEC KEYWORD REGDIMS.                                             
+</warning>
+<comment date="1/12/2015" time="0.00000000000000">
+ NO NON-NEIGHBOUR CONNECTIONS FOUND                                      
+</comment>
+<message date="1/12/2015" time="0.00000000000000">
+ NUMBER OF ACTIVE CELLS IS 39560                                         
+</message>
+<message date="1/12/2015" time="0.00000000000000">
+ THE MEMORY REQUIRED TO PROCESS THE SOLUTION SECTION IS                  
+      74461 KBYTES                                                       
+</message>
+<message date="1/12/2015" time="0.00000000000000">
+    62642 CHARACTER VARIABLES USED                                       
+</message>
+<warning date="1/12/2015" time="0.00000000000000">
+ SPURIOUS DATA BEFORE ECHO     KEYWORD                                   
+ 				                                                                    
+</warning>
+<warning date="1/12/2015" time="0.00000000000000">
+  NEGATIVE COMPRESSIBILITY FOUND IN GAS                                  
+  PRESSURE TABLE     1 AND OIL PRESSURE                                  
+  TABLE     1 AT A SAMPLE PRESSURE VALUE                                 
+   7152.63103 . ADJUST SATURATED FLUID                                   
+  PROPERTY VALUES AT THIS PRESSURE.                                      
+  NEGATIVE COMPRESSIBILITIES OCCUR                                       
+  FOR GAS SATURATIONS LESS THAN     0.01707                              
+</warning>
+<warning date="1/12/2015" time="0.00000000000000">
+  NEGATIVE COMPRESSIBILITY FOUND IN GAS                                  
+  PRESSURE TABLE     1 AND OIL PRESSURE                                  
+  TABLE     1 AT A SAMPLE PRESSURE VALUE                                 
+   7462.97586 . ADJUST SATURATED FLUID                                   
+  PROPERTY VALUES AT THIS PRESSURE.                                      
+  NEGATIVE COMPRESSIBILITIES OCCUR                                       
+  FOR GAS SATURATIONS LESS THAN     0.09785                              
+</warning>
+<warning date="1/12/2015" time="0.00000000000000">
+  NEGATIVE COMPRESSIBILITY FOUND IN GAS                                  
+  PRESSURE TABLE     1 AND OIL PRESSURE                                  
+  TABLE     1 AT A SAMPLE PRESSURE VALUE                                 
+   7773.32069 . ADJUST SATURATED FLUID                                   
+  PROPERTY VALUES AT THIS PRESSURE.                                      
+  NEGATIVE COMPRESSIBILITIES OCCUR                                       
+  FOR GAS SATURATIONS LESS THAN     0.16947                              
+</warning>
+<message date="1/12/2015" time="0.00000000000000">
+ DRSDT KEYWORD HAS NOT BEEN ENTERED, SO THE                              
+ MAXIMUM GAS RE-SOLUTION RATE IS DEFAULTED TO INFINITY.                  
+</message>
+<message date="1/12/2015" time="0.00000000000000">
+ WELL PROD     HAS A NEGATIVE PRODUCTION RATE                            
+ DURING NON-LINEAR ITERATION   0.                                        
+ ITS IPR IS   Q(P) = A - BHP * B ,  WHERE:                               
+ COMPONENT    A           B                                              
+ OIL       3.7609E+04   6.2682E+00                                       
+ GAS       5.2841E+04   8.8068E+00                                       
+ LAST CONVERGED SOLUTION:                                                
+ ORAT      0.0000E+00                                                    
+ WRAT      0.0000E+00                                                    
+ GRAT      0.0000E+00                                                    
+ THP       0.0000E+00                                                    
+ BHP       5.7100E+03                                                    
+ THE WELL IS   SHUT  FOR THE ITERATION.                                  
+</message>
+<message date="1/12/2015" time="0.00000000000000">
+ WELL PROD     IS REVIVED FOR ITERATION   1                              
+</message>
+<message date="1/12/2015" time="0.00000000000000">
+ WELL PROD     HAS A NEGATIVE PRODUCTION RATE                            
+ DURING NON-LINEAR ITERATION   1.                                        
+ ITS IPR IS   Q(P) = A - BHP * B ,  WHERE:                               
+ COMPONENT    A           B                                              
+ OIL       3.7609E+04   6.2682E+00                                       
+ GAS       5.2841E+04   8.8068E+00                                       
+ LAST CONVERGED SOLUTION:                                                
+ ORAT      0.0000E+00                                                    
+ WRAT      0.0000E+00                                                    
+ GRAT      0.0000E+00                                                    
+ THP       0.0000E+00                                                    
+ BHP       5.7100E+03                                                    
+ THE WELL IS   SHUT  FOR THE ITERATION.                                  
+</message>
+<message date="1/12/2015" time="0.00000000000000">
+ ****************************************************************        
+ * WELL PROD     IS  SHUT   AT TIME       0.00   DAYS   BECAUSE *        
+ * IT CANNOT OPERATE AT CURRENT RESERVOIR CONDITIONS.           *        
+ ****************************************************************        
+</message>
+</eclipse>

@@ -1,0 +1,14 @@
+--
+-- -----------------------------------------------------------------------------
+-- Office Grid Operational and Parallel Keywords (GRIDGOPP) Data Section Version 2013.1 Jun 14 2013
+-- -----------------------------------------------------------------------------
+--
+-- File: 11_GOPP.INC
+-- Created on: 13-Jan-2016 at: 15:59:47
+--
+-- *****************************************************************************
+-- *                                  WARNING                                  *
+-- *                THIS FILE HAS BEEN AUTOMATICALLY GENERATED.                *
+-- *          ANY ATTEMPT TO EDIT MANUALLY MAY RESULT IN INVALID DATA.         *
+-- *****************************************************************************
+--

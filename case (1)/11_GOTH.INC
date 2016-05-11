@@ -1,0 +1,47 @@
+--
+-- -----------------------------------------------------------------------------
+-- Office Grid non-geom, non-prop non-operational non-parallel keywords (GRDOTHERS) Data Section Version 2013.1 Jun 14 2013
+-- -----------------------------------------------------------------------------
+--
+-- File: 11_GOTH.INC
+-- Created on: 13-Jan-2016 at: 15:59:47
+--
+-- *****************************************************************************
+-- *                                  WARNING                                  *
+-- *                THIS FILE HAS BEEN AUTOMATICALLY GENERATED.                *
+-- *          ANY ATTEMPT TO EDIT MANUALLY MAY RESULT IN INVALID DATA.         *
+-- *****************************************************************************
+--
+ECHO
+--
+-- -----------------------------------------------------------------------------
+-- Office Grid non-geom, non-prop non-operational non-parallel keywords (GRDOTHERS) Data Section Version 2013.1 Jun 14 2013
+-- -----------------------------------------------------------------------------
+--
+-- File: 11_GOTH.INC
+-- Created on: Jan-13-2016 at: 15:40:40
+--
+-- *****************************************************************************
+-- *                                  WARNING                                  *
+-- *                THIS FILE HAS BEEN AUTOMATICALLY GENERATED.                *
+-- *          ANY ATTEMPT TO EDIT MANUALLY MAY RESULT IN INVALID DATA.         *
+-- *****************************************************************************
+--
+--
+-- -----------------------------------------------------------------------------
+-- Office Grid non-geom, non-prop non-operational non-parallel keywords (GRDOTHERS) Data Section Version 2013.1 Jun 14 2013
+-- -----------------------------------------------------------------------------
+--
+-- File: 11_GOTH.INC
+-- Created on: Dec-09-2015 at: 21:31:41
+--
+-- *****************************************************************************
+-- *                                  WARNING                                  *
+-- *                THIS FILE HAS BEEN AUTOMATICALLY GENERATED.                *
+-- *          ANY ATTEMPT TO EDIT MANUALLY MAY RESULT IN INVALID DATA.         *
+-- *****************************************************************************
+--
+OLDTRANR
+-- 
+-- Alternative Block Centre Transmissibilities
+-- 

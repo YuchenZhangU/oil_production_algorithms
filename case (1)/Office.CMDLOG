@@ -1,0 +1,228 @@
+   OffNewProject(  &
+      FileName = "C:\Users\yuz899\Google &
+Drive\optimization\_GYJ\_Opt2_Oil\model_scalComp\case (8) - Copy\11.OFF" )
+   OffImportCase( FileName = "11_E100.DATA" )
+   OffImportCase( FileName = "11_E100.DATA" )
+   UpdateGridUnits( Grid = "Grid1" )
+   UpdateWellUnits( Wells = "Wells1" )
+   SetPreferredUnits( Units = "ECLIPSE-FIELD",  Broadcast = "FALSE" )
+   SetPreferredUnits( Units = "Eclipse-Field",  Broadcast = "FALSE" )
+   SetPreferredUnits( Units = "ECLIPSE-FIELD",  Broadcast = "FALSE" )
+   SetPreferredUnits( Units = "Eclipse-Field",  Broadcast = "FALSE" )
+   Slice( Viewer = "vw2DViewer1",  SliceNumber = 1,  GridSlice = 2,   &
+      SlicePosition = 0,  ObjectIndex = 0 )
+   Slice( Viewer = "vw2DViewer1",  SliceNumber = 1,  GridSlice = 2,   &
+      SlicePosition = 0,  ObjectIndex = 0 )
+   Slice( Viewer = "vw2DViewer1",  SliceNumber = 1,  GridSlice = 2,   &
+      SlicePosition = 0,  ObjectIndex = 0 )
+   SelectProp( GridComposite = "GridComposite1",  PropName = "SGAS",   &
+      PropType = "RECR",  Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite1",  TimeStep = 0,   &
+      Update = "TRUE" )
+   Slice( Viewer = "vw2DViewer1",  SliceNumber = 1,  GridSlice = 2,   &
+      SlicePosition = 0,  ObjectIndex = 0 )
+   Slice( Viewer = "vw2DViewer1",  SliceNumber = 1,  GridSlice = 2,   &
+      SlicePosition = 0,  ObjectIndex = 0 )
+   Slice( Viewer = "vw2DViewer1",  SliceNumber = 1,  GridSlice = 2,   &
+      SlicePosition = 0,  ObjectIndex = 0 )
+   SelectProp( GridComposite = "GridComposite2",  PropName = "SOIL",   &
+      PropType = "RECR",  Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite2",  TimeStep = 0,   &
+      Update = "TRUE" )
+   UpdateGridUnits( Grid = "Grid2" )
+   UpdateWellUnits( Wells = "Wells2" )
+   SetPreferredUnits( Units = "ECLIPSE-FIELD",  Broadcast = "FALSE" )
+   SetPreferredUnits( Units = "Eclipse-Field",  Broadcast = "FALSE" )
+   SetPreferredUnits( Units = "ECLIPSE-FIELD",  Broadcast = "FALSE" )
+   SetPreferredUnits( Units = "Eclipse-Field",  Broadcast = "FALSE" )
+   Slice( Viewer = "vw2DViewer1",  SliceNumber = 1,  GridSlice = 2,   &
+      SlicePosition = 0,  ObjectIndex = 0 )
+   Slice( Viewer = "vw2DViewer1",  SliceNumber = 1,  GridSlice = 2,   &
+      SlicePosition = 0,  ObjectIndex = 0 )
+   Slice( Viewer = "vw2DViewer1",  SliceNumber = 1,  GridSlice = 2,   &
+      SlicePosition = 0,  ObjectIndex = 0 )
+   SelectProp( GridComposite = "GridComposite3",  PropName = "SATNUM",   &
+      PropType = "INIT",  Update = "TRUE" )
+   Slice( Viewer = "vw2DViewer1",  SliceNumber = 1,  GridSlice = 2,   &
+      SlicePosition = 0,  ObjectIndex = 0 )
+   Slice( Viewer = "vw2DViewer1",  SliceNumber = 1,  GridSlice = 2,   &
+      SlicePosition = 0,  ObjectIndex = 0 )
+   Slice( Viewer = "vw2DViewer1",  SliceNumber = 1,  GridSlice = 2,   &
+      SlicePosition = 0,  ObjectIndex = 0 )
+   SelectProp( GridComposite = "GridComposite4",  PropName = "SGAS",   &
+      PropType = "RECR",  Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite4",  TimeStep = 0,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite4",  TimeStep = 1,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite4",  TimeStep = 1,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite4",  TimeStep = 2,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite4",  TimeStep = 2,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite4",  TimeStep = 3,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite4",  TimeStep = 3,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite4",  TimeStep = 4,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite4",  TimeStep = 4,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite4",  TimeStep = 5,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite4",  TimeStep = 5,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite4",  TimeStep = 6,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite4",  TimeStep = 6,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite4",  TimeStep = 7,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite4",  TimeStep = 7,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite4",  TimeStep = 8,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite4",  TimeStep = 8,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite4",  TimeStep = 9,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite4",  TimeStep = 9,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite4",  TimeStep = 0,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite4",  TimeStep = 0,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite4",  TimeStep = 1,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite4",  TimeStep = 1,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite4",  TimeStep = 2,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite4",  TimeStep = 2,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite4",  TimeStep = 3,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite4",  TimeStep = 3,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite4",  TimeStep = 4,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite4",  TimeStep = 4,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite4",  TimeStep = 5,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite4",  TimeStep = 5,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite4",  TimeStep = 6,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite4",  TimeStep = 6,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite4",  TimeStep = 7,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite4",  TimeStep = 7,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite4",  TimeStep = 8,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite4",  TimeStep = 8,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite4",  TimeStep = 9,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite4",  TimeStep = 9,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite4",  TimeStep = 0,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite4",  TimeStep = 0,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite4",  TimeStep = 1,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite4",  TimeStep = 1,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite4",  TimeStep = 2,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite4",  TimeStep = 2,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite4",  TimeStep = 3,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite4",  TimeStep = 3,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite4",  TimeStep = 4,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite4",  TimeStep = 4,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite4",  TimeStep = 5,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite4",  TimeStep = 5,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite4",  TimeStep = 6,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite4",  TimeStep = 6,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite4",  TimeStep = 7,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite4",  TimeStep = 7,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite4",  TimeStep = 8,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite4",  TimeStep = 8,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite4",  TimeStep = 9,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite4",  TimeStep = 9,   &
+      Update = "TRUE" )
+   Slice( Viewer = "vw2DViewer1",  SliceNumber = 1,  GridSlice = 2,   &
+      SlicePosition = 0,  ObjectIndex = 0 )
+   Slice( Viewer = "vw2DViewer1",  SliceNumber = 1,  GridSlice = 2,   &
+      SlicePosition = 0,  ObjectIndex = 0 )
+   Slice( Viewer = "vw2DViewer1",  SliceNumber = 1,  GridSlice = 2,   &
+      SlicePosition = 0,  ObjectIndex = 0 )
+   SelectProp( GridComposite = "GridComposite5",  PropName = "SGAS",   &
+      PropType = "RECR",  Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite5",  TimeStep = 0,   &
+      Update = "TRUE" )
+   Slice( Viewer = "vw2DViewer1",  SliceNumber = 1,  GridSlice = 2,   &
+      SlicePosition = 0,  ObjectIndex = 0 )
+   Slice( Viewer = "vw2DViewer1",  SliceNumber = 1,  GridSlice = 2,   &
+      SlicePosition = 0,  ObjectIndex = 0 )
+   Slice( Viewer = "vw2DViewer1",  SliceNumber = 1,  GridSlice = 2,   &
+      SlicePosition = 0,  ObjectIndex = 0 )
+   SelectProp( GridComposite = "GridComposite6",  PropName = "SOIL",   &
+      PropType = "RECR",  Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite6",  TimeStep = 0,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite6",  TimeStep = 1,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite6",  TimeStep = 1,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite6",  TimeStep = 2,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite6",  TimeStep = 2,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite6",  TimeStep = 3,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite6",  TimeStep = 3,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite6",  TimeStep = 4,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite6",  TimeStep = 4,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite6",  TimeStep = 5,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite6",  TimeStep = 5,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite6",  TimeStep = 6,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite6",  TimeStep = 6,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite6",  TimeStep = 7,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite6",  TimeStep = 7,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite6",  TimeStep = 8,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite6",  TimeStep = 8,   &
+      Update = "TRUE" )
+   SetGridEvent( GridComposite = "GridComposite6",  TimeStep = 9,   &
+      Update = "TRUE" )
+   SetWellsEvent( WellComposite = "WellComposite6",  TimeStep = 9,   &
+      Update = "TRUE" )
+   OffSaveProject(  )

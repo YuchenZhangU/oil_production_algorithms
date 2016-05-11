@@ -1,0 +1,49 @@
+ 'RESTART '           9 'CHAR'
+ '        ' '        ' '        ' '        ' '        ' '        ' '        '
+ '        ' '        '
+ 'DIMENS  '           6 'INTE'
+          13        1720          23           1           0          -1
+ 'KEYWORDS'          13 'CHAR'
+ 'TIME    ' 'YEARS   ' 'FGOR    ' 'FGPR    ' 'FGPT    ' 'FOPR    ' 'FOPT    '
+ 'WBHP    ' 'WBHP    ' 'WOPR    ' 'WOPR    ' 'WOPT    ' 'WOPT    '
+ 'WGNAMES '          13 'CHAR'
+ ':+:+:+:+' ':+:+:+:+' 'FIELD   ' 'FIELD   ' 'FIELD   ' 'FIELD   ' 'FIELD   '
+ 'PROD    ' ':+:+:+:+' 'PROD    ' ':+:+:+:+' 'PROD    ' ':+:+:+:+'
+ 'NUMS    '          13 'INTE'
+      -32767      -32767           0           0           0           0
+           0           1           2           1           2           1
+           2
+ 'LENGTHS '          13 'REAL'
+   0.00000000E+00   0.00000000E+00   0.00000000E+00   0.00000000E+00
+   0.00000000E+00   0.00000000E+00   0.00000000E+00   0.00000000E+00
+   0.00000000E+00   0.00000000E+00   0.00000000E+00   0.00000000E+00
+   0.00000000E+00
+ 'LENUNITS'           1 'CHAR'
+ '  FEET  '
+ 'MEASRMNT'          52 'CHAR'
+ 'O:Simula' 'tion_Tim' 'e       ' '        ' 'E:Coarse' ' time   ' '        '
+ '        ' 'O:Gas_To' '_Liquid_' 'Ratio   ' '        ' 'O:Gas_Fl' 'owrate  '
+ '        ' '        ' 'O:Gas_Pr' 'oduction' '_Volume ' '        ' 'O:Liquid'
+ '_Flowrat' 'e       ' '        ' 'O:Liquid' '_Product' 'ion_Volu' 'me      '
+ 'O:Pressu' 're      ' '        ' '        ' 'O:Pressu' 're      ' '        '
+ '        ' 'O:Liquid' '_Flowrat' 'e       ' '        ' 'O:Liquid' '_Flowrat'
+ 'e       ' '        ' 'O:Liquid' '_Product' 'ion_Volu' 'me      ' 'O:Liquid'
+ '_Product' 'ion_Volu' 'me      '
+ 'UNITS   '          13 'CHAR'
+ '  DAYS  ' 'YEARS   ' 'MSCF/STB' 'MSCF/DAY' '  MSCF  ' ' STB/DAY' '   STB  '
+ '  PSIA  ' '  PSIA  ' ' STB/DAY' ' STB/DAY' '   STB  ' '   STB  '
+ 'STARTDAT'           6 'INTE'
+           1          12        2015           0           0           0
+ 'RUNTIMEI'          50 'INTE'
+           2           0          99        2016           5          10
+          18          38          49        2016           5          10
+          18          38          59           7           3        2016
+           2          11           1           5           0           0
+           0           0           3           1           0           1
+           0           0           0           0           0           0
+           0           0           0           0           0           0
+           0           0           0           0           0           0
+           0           0
+ 'RUNTIMED'           5 'DOUB'
+   0.97500001000000D+02   0.15086999893188D+02   0.15086999893188D+02
+   0.00000000000000D+00   0.00000000000000D+00

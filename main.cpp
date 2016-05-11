@@ -1,6 +1,6 @@
 #pragma once
 #include "read_write.h"
-#include "eclipse.h"
+#include "dropholdAlg.h"
 
 void compMultiCases(Eclipses& ecls, std::string caseToComp = "../Input/caseToComp.in"){
 	std::vector<std::vector<size_t>> caseNums;
@@ -12,11 +12,15 @@ void compMultiCases(Eclipses& ecls, std::string caseToComp = "../Input/caseToCom
 }
 
 int main(){
-	// --------------- used to build drop hold schudles---------------
-	size_t Necl=32;
-	Eclipses ecls_ALL(Necl, "../Model/32_comp_ng_Nc_ratio", "11", "../Input/32_comp_ng_Nc_ratio");
-	ecls_ALL.updateSch(Necl, "../Input/32_comp_ng_Nc_ratio");
-	ecls_ALL.run();
+	////---------------- used to generate stategy one schdule ----------
+	//eclipse ecl("../Model/32_comp_ng_Nc_ratio/case (37)", "11", "../Input/32_comp_ng_Nc_ratio");
+	//ecl.updateSch(0, 0, 1, 1, 80);
+
+	//// --------------- used to build drop hold schudles---------------
+	//size_t Necl=32;
+	//Eclipses ecls_ALL(Necl, "../Model/32_comp_ng_Nc_ratio", "11", "../Input/32_comp_ng_Nc_ratio");
+	//ecls_ALL.updateSch(Necl, "../Input/32_comp_ng_Nc_ratio");
+	//ecls_ALL.run();
 
 
 	////---------------- ouput all data ----------------------
@@ -27,6 +31,25 @@ int main(){
 	//eclVec.ouputAll("outputAll.out", "econPara.dat");
 
 
+	//// ------------- test dropHoldAlg ---------------
+	//dropHoldAlg alg("case (16)", "11", "Input/32_comp_ng_Nc_ratio");
+	//alg.setParameters(5, 16, 1e-4, 1, 80);
+	//alg.run();
+
+	// --------------- run algorith for mrr = 1e-4 -------------
+	dropHoldAlg alg;
+	std::string inputName = "../Input/40_run_alg";
+	std::string projFold = "../Model/40_run_alg";
+	std::string baseName = projFold+"/case (";
+	std::ifstream infile(inputName + "/alg_para.dat");
+	double dt, dropSlope, mmr, dropInv, h_d_ratio;
+	for (size_t i = 1; i <= 32; ++i){
+		infile >> dt >> dropSlope >> mmr >> dropInv >> h_d_ratio;
+		std::string projName = baseName + std::to_string(i) + ")";
+		alg.setPath(projName, "11", inputName);
+		alg.setParameters(dropInv, h_d_ratio, mmr, dt, dropSlope);
+		alg.run();
+	}
 	return 0;
 }
 
